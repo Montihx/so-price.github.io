@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SO-Wiki · ЗОНА</title>
+
+  <!-- Preconnects (меньше RTT) -->
+  <link rel="preconnect" href="https://unpkg.com" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+  <!-- Шрифт без render-blocking @import -->
+  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet" />
+
+  <!-- CSS -->
+  <link rel="preload" as="style" href="./css/styles.css" />
+  <link rel="stylesheet" href="./css/styles.css" />
+
+  <!-- Module preload (ускоряем загрузку app.js) -->
+  <link rel="modulepreload" href="./js/app.js" />
+  <link rel="modulepreload" href="./js/utils.js" />
+</head>
+<body class="page-fade">
+  <div id="root"></div>
+  <div id="errorBox" class="alert" role="alert" aria-live="polite"></div>
+
+  <!-- React (UMD) с defer, чтобы не блокировать отрисовку -->
+  <script defer crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script defer crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+
+  <!-- App -->
+  <script defer type="module" src="./js/app.js"></script>
+</body>
+</html>
