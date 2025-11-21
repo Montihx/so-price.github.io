@@ -1,360 +1,318 @@
 [
   {
     "item_name": "АИ-2",
-    "price": 40000,
+    "price": 70000,
     "Url": "https://so-wiki.ru/wiki/%D0%90%D0%98-2",
     "item_id": "55b89f6cdd2c55424921014ba13e841d",
     "icon_local_path": "7b5cf45f6ada0506a40aa3be6c3deca7"
   },
   {
+    "item_name": "Автомобильная аптечка",
+    "price": 499,
+    "Url": "https://so-wiki.ru/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BF%D1%82%D0%B5%D1%87%D0%BA%D0%B0",
+    "item_id": "93a4ffccd3654b698cdee45e9085af08",
+    "icon_local_path": "43fb9e4ddbadf2b874c8e3058cf8e7f3"
+  },
+  {
     "item_name": "Антидот Гепарин",
-    "price": 99990,
+    "price": 47000,
     "Url": "https://so-wiki.ru/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%B4%D0%BE%D1%82_%D0%93%D0%B5%D0%BF%D0%B0%D1%80%D0%B8%D0%BD",
     "item_id": "07df0f4d50b82faea721be94965c4332",
     "icon_local_path": "84aec8e91579146a313df22b435713e9"
   },
   {
     "item_name": "Антидот Пентацин",
-    "price": 230000,
+    "price": 219000,
     "Url": "https://so-wiki.ru/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%B4%D0%BE%D1%82_%D0%9F%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%BD",
     "item_id": "aa47b077d1a0fa4de702b244f54cf3da",
     "icon_local_path": "e58daea579f4a7902350fd3a021901f9"
   },
   {
     "item_name": "Антидот Унитол",
-    "price": 200000,
+    "price": 99000,
     "Url": "https://so-wiki.ru/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%B4%D0%BE%D1%82_%D0%A3%D0%BD%D0%B8%D1%82%D0%BE%D0%BB",
     "item_id": "ba74faf3c3996bb12453af72a2110426",
     "icon_local_path": "540b3f7134dafa9c861f2f87d464b2ad"
   },
   {
     "item_name": "Антидот Хромоспан",
-    "price": 170000,
+    "price": 74999,
     "Url": "https://so-wiki.ru/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%B4%D0%BE%D1%82_%D0%A5%D1%80%D0%BE%D0%BC%D0%BE%D1%81%D0%BF%D0%B0%D0%BD",
     "item_id": "960c00758c278280c06c3d41f2379e98",
     "icon_local_path": "e82ded3eab22db6ed825ed64fa878d91"
   },
   {
     "item_name": "Антирадиационное средство ВОФ",
-    "price": 240000,
+    "price": 300000,
     "Url": "https://so-wiki.ru/wiki/%D0%90%D0%BD%D1%82%D0%B8%D1%80%D0%B0%D0%B4%D0%B8%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE_%D0%92%D0%9E%D0%A4",
     "item_id": "eaa5d8162afe0d75e33f02db46dd6059",
     "icon_local_path": "d23459edbf18a121ad831755c4c8e61f"
   },
   {
     "item_name": "Антитоксическое средство ВОФ",
-    "price": 149999,
+    "price": 110000,
     "Url": "https://so-wiki.ru/wiki/%D0%90%D0%BD%D1%82%D0%B8%D1%82%D0%BE%D0%BA%D1%81%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE_%D0%92%D0%9E%D0%A4",
     "item_id": "d83691ef80ac9df566679f1a7d03bbb0",
     "icon_local_path": "da0e69065127ee88e02e5138c1d00454"
   },
   {
     "item_name": "Аптечка фельдшера",
-    "price": 4500,
+    "price": 4250,
     "Url": "https://so-wiki.ru/wiki/%D0%90%D0%BF%D1%82%D0%B5%D1%87%D0%BA%D0%B0_%D1%84%D0%B5%D0%BB%D1%8C%D0%B4%D1%88%D0%B5%D1%80%D0%B0",
     "item_id": "d4dcec35bd3b3b691202d3240150967c",
     "icon_local_path": "5754f9da289e2d4821569f50c0888701"
   },
   {
-    "item_name": "Баночка таблеток \"Но-шпа\"",
-    "price": 10000,
-    "Url": "https://so-wiki.ru/wiki/%D0%91%D0%B0%D0%BD%D0%BE%D1%87%D0%BA%D0%B0_%D1%82%D0%B0%D0%B1%D0%BB%D0%B5%D1%82%D0%BE%D0%BA_%22%D0%9D%D0%BE-%D1%88%D0%BF%D0%B0%22",
-    "item_id": "ba139f69eb2c095b5f55cd193adc0a75",
-    "icon_local_path": "4d5f1b32e12d7f49fc91116f4e203a61"
-  },
-  {
     "item_name": "Бинт антисептический",
-    "price": 5000,
+    "price": 11111,
     "Url": "https://so-wiki.ru/wiki/%D0%91%D0%B8%D0%BD%D1%82_%D0%B0%D0%BD%D1%82%D0%B8%D1%81%D0%B5%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9",
     "item_id": "11f5c3406c4307cf2c4b2fb8f82c3f2d",
     "icon_local_path": "281c9404a33da27a5df42c5db88946cf"
   },
   {
     "item_name": "Бинт охотника",
-    "price": 7777,
+    "price": 25000,
     "Url": "https://so-wiki.ru/wiki/%D0%91%D0%B8%D0%BD%D1%82_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%B0",
     "item_id": "3031ee20026d83b30ace5555af711845",
     "icon_local_path": "0aa068f5945e42471bcd8c0cf8cb58b7"
   },
   {
     "item_name": "Бинт с травами",
-    "price": 17000,
+    "price": 25000,
     "Url": "https://so-wiki.ru/wiki/%D0%91%D0%B8%D0%BD%D1%82_%D1%81_%D1%82%D1%80%D0%B0%D0%B2%D0%B0%D0%BC%D0%B8",
     "item_id": "685afc0b51d4cbc4a0ec9481ed68c00a",
     "icon_local_path": "6c62c6f458e6d4ef151c48cff54ec606"
   },
   {
+    "item_name": "Брусничный отвар",
+    "price": 150000,
+    "Url": "https://so-wiki.ru/wiki/%D0%91%D1%80%D1%83%D1%81%D0%BD%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_%D0%BE%D1%82%D0%B2%D0%B0%D1%80",
+    "item_id": "359bc017775b0acca7f3c72126c1eb0e",
+    "icon_local_path": "a8d9b3b3b8fc4f8697b4f6f1f5080fc9"
+  },
+  {
     "item_name": "Витамины",
-    "price": 3000,
+    "price": 90000,
     "Url": "https://so-wiki.ru/wiki/%D0%92%D0%B8%D1%82%D0%B0%D0%BC%D0%B8%D0%BD%D1%8B",
     "item_id": "c34bcc83ff6d0712924a2fd9e98e094a",
     "icon_local_path": "402b96b258d56afb12dc4882c6ddff4b"
   },
   {
     "item_name": "Индивидуальный перевязочный пакет ИПП-1",
-    "price": 90000,
+    "price": 89999,
     "Url": "https://so-wiki.ru/wiki/%D0%98%D0%BD%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D1%8F%D0%B7%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D0%BA%D0%B5%D1%82_%D0%98%D0%9F%D0%9F-1",
     "item_id": "56882902117da7b60d2de5c13923f52d",
     "icon_local_path": "47ee060406e2de074839659805395285"
   },
   {
+    "item_name": "Индивидуальный противохимический пакет ИПП-8",
+    "price": 50000,
+    "Url": "https://so-wiki.ru/wiki/%D0%98%D0%BD%D0%B4%D0%B8%D0%B2%D0%B8%D0%B4%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D1%85%D0%B8%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D0%BA%D0%B5%D1%82_%D0%98%D0%9F%D0%9F-8",
+    "item_id": "05661baa7507246a6737b9ff9ded4a93",
+    "icon_local_path": "fcb601b2229e1b855bfab90c857b1530"
+  },
+  {
     "item_name": "Инъектор с \"Нервным Стимулятором\"",
-    "price": 177777,
+    "price": 50000,
     "Url": "https://so-wiki.ru/wiki/%D0%98%D0%BD%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D1%80_%D1%81_%22%D0%9D%D0%B5%D1%80%D0%B2%D0%BD%D1%8B%D0%BC_%D0%A1%D1%82%D0%B8%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%BE%D0%BC%22",
     "item_id": "b9db07d47ef128a8dd9d02ce99de8e27",
     "icon_local_path": "61999bcdf0a66a031f9c296a54f486f8"
   },
   {
     "item_name": "Инъектор с \"Энергетиком\"",
-    "price": 399999,
+    "price": 400000,
     "Url": "https://so-wiki.ru/wiki/%D0%98%D0%BD%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D1%80_%D1%81_%22%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%BE%D0%BC%22",
     "item_id": "9445bf1d1de9319b2fefee74ef170fea",
     "icon_local_path": "969e17264d933d09b3eab1a1af49acea"
   },
   {
     "item_name": "Инъектор с очищенной \"Рябиновкой\"",
-    "price": 66666,
+    "price": 70000,
     "Url": "https://so-wiki.ru/wiki/%D0%98%D0%BD%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D1%80_%D1%81_%D0%BE%D1%87%D0%B8%D1%89%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%22%D0%A0%D1%8F%D0%B1%D0%B8%D0%BD%D0%BE%D0%B2%D0%BA%D0%BE%D0%B9%22",
     "item_id": "4d7199c3397fcff75040c4220a36bbbd",
     "icon_local_path": "e7de6c5b05aed6d79f3321fb098388cf"
   },
   {
     "item_name": "Инъектор с усиленной \"Брусниковкой\"",
-    "price": 13337333,
+    "price": 1000000,
     "Url": "https://so-wiki.ru/wiki/%D0%98%D0%BD%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D1%80_%D1%81_%D1%83%D1%81%D0%B8%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%22%D0%91%D1%80%D1%83%D1%81%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%BA%D0%BE%D0%B9%22",
     "item_id": "13c3cb3ff6220b0194144c42433d20bf",
     "icon_local_path": "35336ad864b88b70bd6f321da893e96b"
   },
   {
     "item_name": "Набор боевого медика",
-    "price": 299999,
+    "price": 185000,
     "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%B0%D0%B1%D0%BE%D1%80_%D0%B1%D0%BE%D0%B5%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B5%D0%B4%D0%B8%D0%BA%D0%B0",
     "item_id": "58e5a74765f24d97c8741fd35be21ed6",
     "icon_local_path": "a30f9c921d4a91bb8dca2fcfbc4faa2e"
   },
   {
-    "item_name": "Набор медика",
-    "price": 100000,
-    "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%B0%D0%B1%D0%BE%D1%80_%D0%BC%D0%B5%D0%B4%D0%B8%D0%BA%D0%B0",
-    "item_id": "6ca2b423597335b66ca4ba45f1ec2e9d",
-    "icon_local_path": "fbec8dafa58b29b2c7e19b82d8027fa0"
-  },
-  {
     "item_name": "Набор противоядия при отравлении ядом мутанта",
-    "price": 13000,
+    "price": 14000,
     "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%B0%D0%B1%D0%BE%D1%80_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D1%8F%D0%B4%D0%B8%D1%8F_%D0%BF%D1%80%D0%B8_%D0%BE%D1%82%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B8_%D1%8F%D0%B4%D0%BE%D0%BC_%D0%BC%D1%83%D1%82%D0%B0%D0%BD%D1%82%D0%B0",
     "item_id": "9602c24975bea7845375cd4b62bec3de",
     "icon_local_path": "8b6ea138ce2badcc1870df1b6a449d2b"
   },
   {
     "item_name": "Набор сталкера",
-    "price": 33000,
+    "price": 70000,
     "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%B0%D0%B1%D0%BE%D1%80_%D1%81%D1%82%D0%B0%D0%BB%D0%BA%D0%B5%D1%80%D0%B0",
     "item_id": "78b96e7e2908aedb3d32b47a81c20f32",
     "icon_local_path": "5cc86a81715ae1c703dd25b184d106d6"
   },
   {
     "item_name": "Набор учёного",
-    "price": 50000,
+    "price": 42000,
     "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%B0%D0%B1%D0%BE%D1%80_%D1%83%D1%87%D1%91%D0%BD%D0%BE%D0%B3%D0%BE",
     "item_id": "21ad798a41d44f3ed8e9d53f05d7b12a",
     "icon_local_path": "bf82970d75cf1876acb9b30f4b74aa7b"
   },
   {
     "item_name": "Настойка \"Аир\"",
-    "price": 125000,
+    "price": 75000,
     "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%B0_%22%D0%90%D0%B8%D1%80%22",
     "item_id": "e5c71c1bfa55f186b36df71607dd1eab",
     "icon_local_path": "cdf84fe9d33ee4bc342742df194a8fe4"
   },
   {
     "item_name": "Настойка \"Брусниковка\"",
-    "price": 349999,
+    "price": 500000,
     "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%B0_%22%D0%91%D1%80%D1%83%D1%81%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%BA%D0%B0%22",
     "item_id": "3aee9331fda82a09172cede5a19a7332",
     "icon_local_path": "0e48e60e65e7999143ab788a275f6216"
   },
   {
     "item_name": "Настойка \"Кокушник\"",
-    "price": 77777,
+    "price": 100000,
     "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%B0_%22%D0%9A%D0%BE%D0%BA%D1%83%D1%88%D0%BD%D0%B8%D0%BA%22",
     "item_id": "1b8b67083ee23ba23f19065191f5c0b4",
     "icon_local_path": "26a0f849620739f48bdb95dd6fd2f64c"
   },
   {
     "item_name": "Настойка \"Пижма\"",
-    "price": 200000,
+    "price": 300000,
     "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%B0_%22%D0%9F%D0%B8%D0%B6%D0%BC%D0%B0%22",
     "item_id": "b05f3205398ca00266f0aeedd32dcd4d",
     "icon_local_path": "7df592a5b7d7c24267aa64fb40b956ed"
   },
   {
     "item_name": "Настойка \"Ромашка\"",
-    "price": 75000,
+    "price": 55000,
     "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%B0_%22%D0%A0%D0%BE%D0%BC%D0%B0%D1%88%D0%BA%D0%B0%22",
     "item_id": "70629d5449729a5d85e8f4d6f8161c55",
     "icon_local_path": "b4c6c5198545155334b7e64336a8f4f8"
   },
   {
-    "item_name": "Настойка \"Рябиновка\"",
-    "price": 350000,
-    "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%B0_%22%D0%A0%D1%8F%D0%B1%D0%B8%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%22",
-    "item_id": "f7d02d9f0f8ef31fd465ff232841dade",
-    "icon_local_path": "e018c0dd78b1d99e62b51f886b7cc658"
-  },
-  {
     "item_name": "Настойка \"Травяная\"",
-    "price": 75000,
+    "price": 67000,
     "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%B0_%22%D0%A2%D1%80%D0%B0%D0%B2%D1%8F%D0%BD%D0%B0%D1%8F%22",
     "item_id": "03b88ce6d190e88e13c37c045e2058ef",
     "icon_local_path": "8a3e1d79adfbc43d477ba25917a19f4f"
   },
   {
     "item_name": "Настойка \"Чертовка\"",
-    "price": 499999,
+    "price": 800000,
     "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%B0_%22%D0%A7%D0%B5%D1%80%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%22",
     "item_id": "7349e293833d1a10bc784ab65b031f7c",
     "icon_local_path": "68f42351d1a084ca42a9b9a458c23111"
   },
   {
+    "item_name": "Пачка бинтов",
+    "price": 500,
+    "Url": "https://so-wiki.ru/wiki/%D0%9F%D0%B0%D1%87%D0%BA%D0%B0_%D0%B1%D0%B8%D0%BD%D1%82%D0%BE%D0%B2",
+    "item_id": "d921511fa2a6621aa7d172720ff11d72",
+    "icon_local_path": "3f35644d7b301d722388bad55ccb8bd1"
+  },
+  {
     "item_name": "Психомоторный стимулятор (кратк. действ.)",
-    "price": 280000,
+    "price": 320000,
     "Url": "https://so-wiki.ru/wiki/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BC%D0%BE%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D1%81%D1%82%D0%B8%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80_(%D0%BA%D1%80%D0%B0%D1%82%D0%BA._%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2.)",
     "item_id": "657f3464c0156817d3ee589ac0196709",
     "icon_local_path": "fb9babccffd019207966afc6abf48220"
   },
   {
     "item_name": "Резиновый жгут",
-    "price": 50000,
+    "price": 70000,
     "Url": "https://so-wiki.ru/wiki/%D0%A0%D0%B5%D0%B7%D0%B8%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B6%D0%B3%D1%83%D1%82",
     "item_id": "8d26c6de3952c8e0fff389cbddbc57f6",
     "icon_local_path": "399428389457b221fbc3096b90c79add"
   },
   {
     "item_name": "Санитарный набор",
-    "price": 20000,
+    "price": 18888,
     "Url": "https://so-wiki.ru/wiki/%D0%A1%D0%B0%D0%BD%D0%B8%D1%82%D0%B0%D1%80%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0%D0%B1%D0%BE%D1%80",
     "item_id": "92a53c194ef9fc4d2650603d1b5e8ee0",
     "icon_local_path": "d3847bd09686c28fe6a0a18ac01acb36"
   },
   {
     "item_name": "Средство выведения радиации",
-    "price": 4000,
+    "price": 12000,
     "Url": "https://so-wiki.ru/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE_%D0%B2%D1%8B%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D1%80%D0%B0%D0%B4%D0%B8%D0%B0%D1%86%D0%B8%D0%B8",
     "item_id": "e7554b8c236bfea27ba0829217349c9f",
     "icon_local_path": "081672f902ff4c038a38c2b57e875416"
   },
   {
-    "item_name": "Стимулятор малый (половина)",
-    "price": 79999,
-    "Url": "https://so-wiki.ru/wiki/%D0%A1%D1%82%D0%B8%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80_%D0%BC%D0%B0%D0%BB%D1%8B%D0%B9_(%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0)",
-    "item_id": "4a347de82ef9249e5ee95887fc6b47e1",
-    "icon_local_path": "cde2c578dfb325077ac5015bfac1512d"
-  },
-  {
-    "item_name": "Супер аптечка",
-    "price": 5000000,
-    "Url": "https://so-wiki.ru/wiki/%D0%A1%D1%83%D0%BF%D0%B5%D1%80_%D0%B0%D0%BF%D1%82%D0%B5%D1%87%D0%BA%D0%B0",
-    "item_id": "6e1b2e2a64bf56c85eeb254b2e3e098d",
-    "icon_local_path": "0bc14cdb4268636b70be90aea456c50c"
+    "item_name": "Стимулятор большой (полный)",
+    "price": 66666,
+    "Url": "https://so-wiki.ru/wiki/%D0%A1%D1%82%D0%B8%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_(%D0%BF%D0%BE%D0%BB%D0%BD%D1%8B%D0%B9)",
+    "item_id": "d6473daf8f0ce5a07479e8538cdc93ea",
+    "icon_local_path": "dffe6fda62094d9cbb62d8d73e22149a"
   },
   {
     "item_name": "Таблетки \"Анальгин\"",
-    "price": 333,
+    "price": 1111,
     "Url": "https://so-wiki.ru/wiki/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B5%D1%82%D0%BA%D0%B8_%22%D0%90%D0%BD%D0%B0%D0%BB%D1%8C%D0%B3%D0%B8%D0%BD%22",
     "item_id": "79fa8ab05d5e0d661e927c5ca1c9d0b1",
     "icon_local_path": "bd424f10f5e2561ade2e504ed4c985fa"
   },
   {
     "item_name": "Таблетки \"Аспирин\"",
-    "price": 3000,
+    "price": 5000,
     "Url": "https://so-wiki.ru/wiki/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B5%D1%82%D0%BA%D0%B8_%22%D0%90%D1%81%D0%BF%D0%B8%D1%80%D0%B8%D0%BD%22",
     "item_id": "32ae2c835791628f907afc47d69e2fb8",
     "icon_local_path": "4c9aa8f1f4b44a8ed6962fadff5454ca"
   },
   {
+    "item_name": "Таблетки \"Диазепам\"",
+    "price": 7000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B5%D1%82%D0%BA%D0%B8_%22%D0%94%D0%B8%D0%B0%D0%B7%D0%B5%D0%BF%D0%B0%D0%BC%22",
+    "item_id": "86d0b7f473383667b91b4e5239181ce8",
+    "icon_local_path": "eaa950979094437cbe88674dd0c0f8f2"
+  },
+  {
     "item_name": "Таблетки \"Кетерол\"",
-    "price": 15000,
+    "price": 20000,
     "Url": "https://so-wiki.ru/wiki/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B5%D1%82%D0%BA%D0%B8_%22%D0%9A%D0%B5%D1%82%D0%B5%D1%80%D0%BE%D0%BB%22",
     "item_id": "3398186e7a13914c2764661b798a8dfc",
     "icon_local_path": "5ac8e751bd5b1c69035e605833cc4a68"
   },
   {
     "item_name": "Таблетки \"Колдакт\"",
-    "price": 7500,
+    "price": 25000,
     "Url": "https://so-wiki.ru/wiki/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B5%D1%82%D0%BA%D0%B8_%22%D0%9A%D0%BE%D0%BB%D0%B4%D0%B0%D0%BA%D1%82%22",
     "item_id": "5d8fc96b1fb4197c23b5d96d741e3e29",
     "icon_local_path": "37e681a45e9af6fb56ec3dd2c490567c"
   },
   {
+    "item_name": "Таблетки \"Креон\"",
+    "price": 8000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B5%D1%82%D0%BA%D0%B8_%22%D0%9A%D1%80%D0%B5%D0%BE%D0%BD%22",
+    "item_id": "7ffcb049ac6735a66f9e248ac8032a4b",
+    "icon_local_path": "e08f780f1045755b6a982183d8a92c96"
+  },
+  {
     "item_name": "Таблетки \"Но-шпа\"",
-    "price": 2500,
+    "price": 10000,
     "Url": "https://so-wiki.ru/wiki/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B5%D1%82%D0%BA%D0%B8_%22%D0%9D%D0%BE-%D1%88%D0%BF%D0%B0%22",
     "item_id": "0bcb90494d687a7b405a8c3a50bae2eb",
     "icon_local_path": "ebac3ab3823805a19e650360bdc44150"
   },
   {
     "item_name": "Таблетки \"Ортофен\"",
-    "price": 29000,
+    "price": 29999,
     "Url": "https://so-wiki.ru/wiki/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B5%D1%82%D0%BA%D0%B8_%22%D0%9E%D1%80%D1%82%D0%BE%D1%84%D0%B5%D0%BD%22",
     "item_id": "752d4da437dabac8110a9e4814c511bc",
     "icon_local_path": "9ff0a9e48b4b291551afb1706aa3a245"
-  },
-  {
-    "item_name": "Таблетки \"Цистамин\"",
-    "price": 1000,
-    "Url": "https://so-wiki.ru/wiki/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B5%D1%82%D0%BA%D0%B8_%22%D0%A6%D0%B8%D1%81%D1%82%D0%B0%D0%BC%D0%B8%D0%BD%22",
-    "item_id": "c7d3b25a8c586b41362477b678e5089d",
-    "icon_local_path": "244a339d9c8f4445e54b12c5f8007e2a"
-  },
-  {
-    "item_name": "Упаковка таблеток активированного угля",
-    "price": 4999,
-    "Url": "https://so-wiki.ru/wiki/%D0%A3%D0%BF%D0%B0%D0%BA%D0%BE%D0%B2%D0%BA%D0%B0_%D1%82%D0%B0%D0%B1%D0%BB%D0%B5%D1%82%D0%BE%D0%BA_%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D1%83%D0%B3%D0%BB%D1%8F",
-    "item_id": "75b8e0c28a831a725777839aa6e614b8",
-    "icon_local_path": "e7c097a8ce534dcfe0e8809827dc686c"
-  },
-  {
-    "item_name": "Автомобильная свеча",
-    "price": 6666,
-    "Url": "https://so-wiki.ru/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%81%D0%B2%D0%B5%D1%87%D0%B0",
-    "item_id": "124c6018e9c009a12aa0135fa9f677be",
-    "icon_local_path": "ca7404fe13b30dc6d07a576de7be4018"
-  },
-  {
-    "item_name": "Антикварная ржавая сковородка",
-    "price": 80000,
-    "Url": "https://so-wiki.ru/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%BA%D0%B2%D0%B0%D1%80%D0%BD%D0%B0%D1%8F_%D1%80%D0%B6%D0%B0%D0%B2%D0%B0%D1%8F_%D1%81%D0%BA%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D0%B4%D0%BA%D0%B0",
-    "item_id": "1571af679a5aefdd1fad3a19876c421b",
-    "icon_local_path": "9e11b972fd1aee9fc34d313b1f879a29"
-  },
-  {
-    "item_name": "Аудиокассета",
-    "price": 40000,
-    "Url": "https://so-wiki.ru/wiki/%D0%90%D1%83%D0%B4%D0%B8%D0%BE%D0%BA%D0%B0%D1%81%D1%81%D0%B5%D1%82%D0%B0",
-    "item_id": "b2eb80ea238021e0d39a18d9daedd98e",
-    "icon_local_path": "94a098918dcccf6b6af744bbd930a6c8"
-  },
-  {
-    "item_name": "Банка из-под Кофе",
-    "price": 2345,
-    "Url": "https://so-wiki.ru/wiki/%D0%91%D0%B0%D0%BD%D0%BA%D0%B0_%D0%B8%D0%B7-%D0%BF%D0%BE%D0%B4_%D0%9A%D0%BE%D1%84%D0%B5",
-    "item_id": "945001ee7c2306f1ccd915a1a3c215ba",
-    "icon_local_path": "017b59996370925c5bf52fc04045a98f"
-  },
-  {
-    "item_name": "Бенгальский огонь",
-    "price": 10000,
-    "Url": "https://so-wiki.ru/wiki/%D0%91%D0%B5%D0%BD%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D0%B3%D0%BE%D0%BD%D1%8C",
-    "item_id": "a86139f5c8f80da4e319617a098dd0cf",
-    "icon_local_path": "6c55dcc6c4148bde117b6cf9464f107d"
-  },
-  {
-    "item_name": "Таблетки \"Креон\"",
-    "price": 5000,
-    "Url": "https://so-wiki.ru/wiki/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B5%D1%82%D0%BA%D0%B8_%22%D0%9A%D1%80%D0%B5%D0%BE%D0%BD%22",
-    "item_id": "7ffcb049ac6735a66f9e248ac8032a4b",
-    "icon_local_path": "e08f780f1045755b6a982183d8a92c96"
   },
   {
     "item_name": "Таблетки \"Ферроцин\"",
@@ -364,85 +322,127 @@
     "icon_local_path": "3f2e18915fe7d2554996b3964b42a908"
   },
   {
+    "item_name": "Таблетки \"Цистамин\"",
+    "price": 4000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B5%D1%82%D0%BA%D0%B8_%22%D0%A6%D0%B8%D1%81%D1%82%D0%B0%D0%BC%D0%B8%D0%BD%22",
+    "item_id": "c7d3b25a8c586b41362477b678e5089d",
+    "icon_local_path": "244a339d9c8f4445e54b12c5f8007e2a"
+  },
+  {
+    "item_name": "Упаковка таблеток активированного угля",
+    "price": 4499,
+    "Url": "https://so-wiki.ru/wiki/%D0%A3%D0%BF%D0%B0%D0%BA%D0%BE%D0%B2%D0%BA%D0%B0_%D1%82%D0%B0%D0%B1%D0%BB%D0%B5%D1%82%D0%BE%D0%BA_%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D1%83%D0%B3%D0%BB%D1%8F",
+    "item_id": "75b8e0c28a831a725777839aa6e614b8",
+    "icon_local_path": "e7c097a8ce534dcfe0e8809827dc686c"
+  },
+  {
+    "item_name": "Автомобильная свеча",
+    "price": 6000,
+    "Url": "https://so-wiki.ru/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%81%D0%B2%D0%B5%D1%87%D0%B0",
+    "item_id": "124c6018e9c009a12aa0135fa9f677be",
+    "icon_local_path": "ca7404fe13b30dc6d07a576de7be4018"
+  },
+  {
+    "item_name": "Антикварная ржавая сковородка",
+    "price": 40000,
+    "Url": "https://so-wiki.ru/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%BA%D0%B2%D0%B0%D1%80%D0%BD%D0%B0%D1%8F_%D1%80%D0%B6%D0%B0%D0%B2%D0%B0%D1%8F_%D1%81%D0%BA%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D0%B4%D0%BA%D0%B0",
+    "item_id": "1571af679a5aefdd1fad3a19876c421b",
+    "icon_local_path": "9e11b972fd1aee9fc34d313b1f879a29"
+  },
+  {
+    "item_name": "Аудиокассета",
+    "price": 52631,
+    "Url": "https://so-wiki.ru/wiki/%D0%90%D1%83%D0%B4%D0%B8%D0%BE%D0%BA%D0%B0%D1%81%D1%81%D0%B5%D1%82%D0%B0",
+    "item_id": "b2eb80ea238021e0d39a18d9daedd98e",
+    "icon_local_path": "94a098918dcccf6b6af744bbd930a6c8"
+  },
+  {
+    "item_name": "Банка из-под Кофе",
+    "price": 2900,
+    "Url": "https://so-wiki.ru/wiki/%D0%91%D0%B0%D0%BD%D0%BA%D0%B0_%D0%B8%D0%B7-%D0%BF%D0%BE%D0%B4_%D0%9A%D0%BE%D1%84%D0%B5",
+    "item_id": "945001ee7c2306f1ccd915a1a3c215ba",
+    "icon_local_path": "017b59996370925c5bf52fc04045a98f"
+  },
+  {
+    "item_name": "Бенгальский огонь",
+    "price": 3000,
+    "Url": "https://so-wiki.ru/wiki/%D0%91%D0%B5%D0%BD%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D0%B3%D0%BE%D0%BD%D1%8C",
+    "item_id": "a86139f5c8f80da4e319617a098dd0cf",
+    "icon_local_path": "6c55dcc6c4148bde117b6cf9464f107d"
+  },
+  {
+    "item_name": "Биметаллическая пластина",
+    "price": 50000,
+    "Url": "https://so-wiki.ru/wiki/%D0%91%D0%B8%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BD%D0%B0",
+    "item_id": "1961ca9dcd8ecdb1a029ef13305147ce",
+    "icon_local_path": "bde7bf71a80615ddacad20f4af23b112"
+  },
+  {
     "item_name": "Бинокль",
-    "price": 300000,
+    "price": 49999,
     "Url": "https://so-wiki.ru/wiki/%D0%91%D0%B8%D0%BD%D0%BE%D0%BA%D0%BB%D1%8C",
     "item_id": "4d72c3316a8dca2bff90d09fba624bbd",
     "icon_local_path": "3bcb683c71705172ae0406177b2e2310"
   },
   {
+    "item_name": "Блок сигарет \"Light\"",
+    "price": 80000,
+    "Url": "https://so-wiki.ru/wiki/%D0%91%D0%BB%D0%BE%D0%BA_%D1%81%D0%B8%D0%B3%D0%B0%D1%80%D0%B5%D1%82_%22Light%22",
+    "item_id": "7761194742748e5f9e78ee939a0962fb",
+    "icon_local_path": "b0f10e8ff41d2d80d4589ec8c7a977f3"
+  },
+  {
     "item_name": "Блок такелажа старинного судна",
-    "price": 150000,
+    "price": 100000,
     "Url": "https://so-wiki.ru/wiki/%D0%91%D0%BB%D0%BE%D0%BA_%D1%82%D0%B0%D0%BA%D0%B5%D0%BB%D0%B0%D0%B6%D0%B0_%D1%81%D1%82%D0%B0%D1%80%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D1%83%D0%B4%D0%BD%D0%B0",
     "item_id": "c1a5c0e331b1504fa9008ff5d685efc6",
     "icon_local_path": "81126cbad24d81844c1a7d1493befe99"
   },
   {
-    "item_name": "Большая маслёнка",
-    "price": 3000,
-    "Url": "https://so-wiki.ru/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%BC%D0%B0%D1%81%D0%BB%D1%91%D0%BD%D0%BA%D0%B0",
-    "item_id": "93534db967e7ef776be86dd7183fc509",
-    "icon_local_path": "7159345702a14ece01cd52e8b6c2fb14"
-  },
-  {
     "item_name": "Бронзовая монета",
-    "price": 195000,
+    "price": 300000,
     "Url": "https://so-wiki.ru/wiki/%D0%91%D1%80%D0%BE%D0%BD%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BC%D0%BE%D0%BD%D0%B5%D1%82%D0%B0",
     "item_id": "1ac795be8e99df65195cd430a47f89e0",
     "icon_local_path": "8cd113c255c26ced3b1d0802faabe373"
   },
   {
     "item_name": "Восстановленная голова Хранителя Вулкана",
-    "price": 12999999,
+    "price": 13999999,
     "Url": "https://so-wiki.ru/wiki/%D0%92%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0_%D0%A5%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8F_%D0%92%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%D0%B0",
     "item_id": "5016e5da3f3ccc5d6c5e0ef2cc36263d",
     "icon_local_path": "a8b0790b83c436d979750a65140e5e75"
   },
   {
-    "item_name": "Дед мороз",
-    "price": 7500000,
-    "Url": "https://so-wiki.ru/wiki/%D0%94%D0%B5%D0%B4_%D0%BC%D0%BE%D1%80%D0%BE%D0%B7",
-    "item_id": "ff72544be3f4f1cb08d0e61b4f98d201",
-    "icon_local_path": "2c9abe05e19a753c663a8031f0efa03d"
-  },
-  {
-    "item_name": "Диперекись ацетона",
-    "price": 100000,
-    "Url": "https://so-wiki.ru/wiki/%D0%94%D0%B8%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D0%B8%D1%81%D1%8C_%D0%B0%D1%86%D0%B5%D1%82%D0%BE%D0%BD%D0%B0",
-    "item_id": "acedbf37757f098179edf5102d233047",
-    "icon_local_path": "ec158f54f428d83748776f6e0ebe9d63"
-  },
-  {
     "item_name": "Длинная трубка",
-    "price": 7000,
+    "price": 12000,
     "Url": "https://so-wiki.ru/wiki/%D0%94%D0%BB%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F_%D1%82%D1%80%D1%83%D0%B1%D0%BA%D0%B0",
     "item_id": "5a254775fbb9b84cd84c0429fc4a372c",
     "icon_local_path": "46a4047cf932329cd9347231f7ac38f1"
   },
   {
     "item_name": "Зелёная соль",
-    "price": 9000,
+    "price": 2200,
     "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D0%B0%D1%8F_%D1%81%D0%BE%D0%BB%D1%8C",
     "item_id": "81784f50785e6928f3a46abb58e08dc0",
     "icon_local_path": "54f797902085aca650b3a79a90481583"
   },
   {
     "item_name": "Золотая монета",
-    "price": 633333,
+    "price": 555555,
     "Url": "https://so-wiki.ru/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%D1%8F_%D0%BC%D0%BE%D0%BD%D0%B5%D1%82%D0%B0",
     "item_id": "169c1727b2ad44f6fcd92480f1901538",
     "icon_local_path": "9a66da9ebcef935a8588742b16312621"
   },
   {
     "item_name": "Ихтиоловая мазь",
-    "price": 33000,
+    "price": 44444,
     "Url": "https://so-wiki.ru/wiki/%D0%98%D1%85%D1%82%D0%B8%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BC%D0%B0%D0%B7%D1%8C",
     "item_id": "00a529cd3b3a2979c81afd51cfae1525",
     "icon_local_path": "4ff3f426116a9dfee31f2e6b6d57d01c"
   },
   {
     "item_name": "Коготь пещерного бляка",
-    "price": 1000,
+    "price": 3000,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%BE%D0%B3%D0%BE%D1%82%D1%8C_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B1%D0%BB%D1%8F%D0%BA%D0%B0",
     "item_id": "8787971986f81940d5ca133a4fed7cde",
     "icon_local_path": "1b0b90ea890e2ca688dadfea8a04cd0d"
@@ -456,56 +456,56 @@
   },
   {
     "item_name": "Короткая труба",
-    "price": 2000,
+    "price": 2500,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%B0%D1%8F_%D1%82%D1%80%D1%83%D0%B1%D0%B0",
     "item_id": "002a3aa62fb782c7caa6a766c006a7bd",
     "icon_local_path": "e843b795a4d0708a002c225ecde21e62"
   },
   {
     "item_name": "Короткая труба с резьбой",
-    "price": 2000,
+    "price": 2500,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%B0%D1%8F_%D1%82%D1%80%D1%83%D0%B1%D0%B0_%D1%81_%D1%80%D0%B5%D0%B7%D1%8C%D0%B1%D0%BE%D0%B9",
     "item_id": "d0b6826c0dc46921b38b7638dad60bc4",
     "icon_local_path": "a89d83c048d1f571488ca24518d8009f"
   },
   {
     "item_name": "Кости руки",
-    "price": 90000,
+    "price": 98765,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B8_%D1%80%D1%83%D0%BA%D0%B8",
     "item_id": "e42743bbcc894ee7ad1924491e7b7f9d",
     "icon_local_path": "860fdad50db23fa6f53048d4f1d4d08a"
   },
   {
     "item_name": "Кухонный нож",
-    "price": 1500,
+    "price": 500,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D1%83%D1%85%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%B6",
     "item_id": "226b468f55bbbf82f1af392664876ae3",
     "icon_local_path": "40847638502e40b6c74eae35d84d4ec0"
   },
   {
     "item_name": "Марганец",
-    "price": 9000,
+    "price": 19000,
     "Url": "https://so-wiki.ru/wiki/%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D0%BD%D0%B5%D1%86",
     "item_id": "94ad7fd11d8a363d779cd0ed8339df66",
     "icon_local_path": "59d87b9a62dfd29571322ab8c11cdb89"
   },
   {
     "item_name": "Металлическая пластина",
-    "price": 50000,
+    "price": 38000,
     "Url": "https://so-wiki.ru/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BD%D0%B0",
     "item_id": "87a587fceb91b656070e39a141e63e50",
     "icon_local_path": "81c3de1ff29a9ee742d6ecfedb772f64"
   },
   {
     "item_name": "Набор для подшива одежды",
-    "price": 10000,
+    "price": 20000,
     "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%B0%D0%B1%D0%BE%D1%80_%D0%B4%D0%BB%D1%8F_%D0%BF%D0%BE%D0%B4%D1%88%D0%B8%D0%B2%D0%B0_%D0%BE%D0%B4%D0%B5%D0%B6%D0%B4%D1%8B",
     "item_id": "2b3b08f1a43cda49a5232ec25d328a67",
     "icon_local_path": "c1c5393e4a1841fb43ffa42f74e67c6a"
   },
   {
     "item_name": "Набор для розжига костра",
-    "price": 7299,
+    "price": 345,
     "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%B0%D0%B1%D0%BE%D1%80_%D0%B4%D0%BB%D1%8F_%D1%80%D0%BE%D0%B7%D0%B6%D0%B8%D0%B3%D0%B0_%D0%BA%D0%BE%D1%81%D1%82%D1%80%D0%B0",
     "item_id": "ade17399a7012ae98d7f64f2ea9d6788",
     "icon_local_path": "623e0f26a876a78b6fa8f0ddc8617990"
@@ -519,77 +519,63 @@
   },
   {
     "item_name": "Наружное средство \"Люголь\"",
-    "price": 9000,
+    "price": 5000,
     "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%B0%D1%80%D1%83%D0%B6%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE_%22%D0%9B%D1%8E%D0%B3%D0%BE%D0%BB%D1%8C%22",
     "item_id": "69a78d922c7c98048a29c1dd7482055d",
     "icon_local_path": "21016492b6866865a8c19704653909af"
   },
   {
-    "item_name": "Оружейный капсюль",
-    "price": 11171,
-    "Url": "https://so-wiki.ru/wiki/%D0%9E%D1%80%D1%83%D0%B6%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BF%D1%81%D1%8E%D0%BB%D1%8C",
-    "item_id": "ea5867a8f5f8f72bf77be167bb610976",
-    "icon_local_path": "5f6df908543349e5570ff1a79a8731c9"
-  },
-  {
     "item_name": "Осколок антикварной посуды",
-    "price": 50000,
+    "price": 99000,
     "Url": "https://so-wiki.ru/wiki/%D0%9E%D1%81%D0%BA%D0%BE%D0%BB%D0%BE%D0%BA_%D0%B0%D0%BD%D1%82%D0%B8%D0%BA%D0%B2%D0%B0%D1%80%D0%BD%D0%BE%D0%B9_%D0%BF%D0%BE%D1%81%D1%83%D0%B4%D1%8B",
     "item_id": "73f8d55856442c18ab0817e76588ff03",
     "icon_local_path": "47f8386c792d8c96d5f11a970a4a1782"
   },
   {
     "item_name": "Охотничий нож",
-    "price": 75000,
+    "price": 89998,
     "Url": "https://so-wiki.ru/wiki/%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D1%87%D0%B8%D0%B9_%D0%BD%D0%BE%D0%B6",
     "item_id": "20d249642169af21f8f41198d6f8ade7",
     "icon_local_path": "1a70c66e98f8cd438d4b1b2b2fa7f25e"
   },
   {
     "item_name": "Пачка чая",
-    "price": 8000,
+    "price": 10999,
     "Url": "https://so-wiki.ru/wiki/%D0%9F%D0%B0%D1%87%D0%BA%D0%B0_%D1%87%D0%B0%D1%8F",
     "item_id": "ff1b85b857043879eedb654c0b8d35f5",
     "icon_local_path": "ba1523524be3e3d0b74c251c5278782e"
   },
   {
     "item_name": "Паяльная лампа",
-    "price": 5000,
+    "price": 7400,
     "Url": "https://so-wiki.ru/wiki/%D0%9F%D0%B0%D1%8F%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B0%D0%BC%D0%BF%D0%B0",
     "item_id": "a64711ca9ea86ef7220e0c4a46232f75",
     "icon_local_path": "5b485c66202b2ab974db3670bb7a09c0"
   },
   {
-    "item_name": "Пистолетный капсюль",
-    "price": 70,
-    "Url": "https://so-wiki.ru/wiki/%D0%9F%D0%B8%D1%81%D1%82%D0%BE%D0%BB%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BF%D1%81%D1%8E%D0%BB%D1%8C",
-    "item_id": "1204f06e45fa7fd688b36c9527bba70b",
-    "icon_local_path": "357ff3c36c8911b4a715c8802a7b29e1"
-  },
-  {
     "item_name": "Пластиковая канистра",
-    "price": 20000,
+    "price": 14777,
     "Url": "https://so-wiki.ru/wiki/%D0%9F%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B0%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0",
     "item_id": "4bc1a3253fa7cc2ec7bcdae4e6fefacb",
     "icon_local_path": "e90c717933262092f34cf8ec067aa0ab"
   },
   {
     "item_name": "Пластина композитного материала",
-    "price": 50000,
+    "price": 300000,
     "Url": "https://so-wiki.ru/wiki/%D0%9F%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BD%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%B0",
     "item_id": "19758d30dee060699f6bf8feda0c6380",
     "icon_local_path": "3d1327e90eced0bf0c4f0b75032ee0ab"
   },
   {
     "item_name": "Порох",
-    "price": 500,
+    "price": 4000,
     "Url": "https://so-wiki.ru/wiki/%D0%9F%D0%BE%D1%80%D0%BE%D1%85",
     "item_id": "e1bce88dc72c7870aaef5bdbd1183f57",
     "icon_local_path": "4c63dd620d854ae30dd57507d9e366a0"
   },
   {
     "item_name": "Провод в изоляции",
-    "price": 3999,
+    "price": 5500,
     "Url": "https://so-wiki.ru/wiki/%D0%9F%D1%80%D0%BE%D0%B2%D0%BE%D0%B4_%D0%B2_%D0%B8%D0%B7%D0%BE%D0%BB%D1%8F%D1%86%D0%B8%D0%B8",
     "item_id": "7c77db279d40e71ff8d604694d30506f",
     "icon_local_path": "78c3b31ebd36cde1532a259f5a9d4929"
@@ -602,22 +588,22 @@
     "icon_local_path": "523cc2c572c9568fd6de25c304dda7f9"
   },
   {
-    "item_name": "Пустая банка из-под краски",
-    "price": 2345,
-    "Url": "https://so-wiki.ru/wiki/%D0%9F%D1%83%D1%81%D1%82%D0%B0%D1%8F_%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0_%D0%B8%D0%B7-%D0%BF%D0%BE%D0%B4_%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B8",
-    "item_id": "ce3d411a8a90d38e3ea2a201c0d395c0",
-    "icon_local_path": "6db881c48fbaf07b090be07499706f6a"
+    "item_name": "Пыль зараженного растения",
+    "price": 999999,
+    "Url": "https://so-wiki.ru/wiki/%D0%9F%D1%8B%D0%BB%D1%8C_%D0%B7%D0%B0%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D1%8F",
+    "item_id": "dffb36af35786e8c9c62d9a779c4bbc1",
+    "icon_local_path": "d6387b6ca77d0933866e48d8551fd5da"
   },
   {
     "item_name": "Радиодетали",
-    "price": 19999,
+    "price": 19000,
     "Url": "https://so-wiki.ru/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE%D0%B4%D0%B5%D1%82%D0%B0%D0%BB%D0%B8",
     "item_id": "6187b2d3b5f18da6302da806d74c4e24",
     "icon_local_path": "807acd988976f10cf4b150e3e1132142"
   },
   {
     "item_name": "Рулон туалетной бумаги",
-    "price": 2000,
+    "price": 2345,
     "Url": "https://so-wiki.ru/wiki/%D0%A0%D1%83%D0%BB%D0%BE%D0%BD_%D1%82%D1%83%D0%B0%D0%BB%D0%B5%D1%82%D0%BD%D0%BE%D0%B9_%D0%B1%D1%83%D0%BC%D0%B0%D0%B3%D0%B8",
     "item_id": "58c3429b94a8f2cf6902a90fa1affb64",
     "icon_local_path": "58119507f6425e9f96d8530346ac7bcc"
@@ -645,178 +631,143 @@
   },
   {
     "item_name": "Сильная пружина",
-    "price": 1200,
+    "price": 9999,
     "Url": "https://so-wiki.ru/wiki/%D0%A1%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D1%83%D0%B6%D0%B8%D0%BD%D0%B0",
     "item_id": "875aa7636f191b26e54b2adfa6edd133",
     "icon_local_path": "972aeae8a3d7b940ddaa7c7e95c0930b"
   },
   {
     "item_name": "Стабилизированный раствор (10 мл)",
-    "price": 350000,
+    "price": 125000,
     "Url": "https://so-wiki.ru/wiki/%D0%A1%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80_(10_%D0%BC%D0%BB)",
     "item_id": "234b8285252feaac69a20565e2914596",
     "icon_local_path": "3a99a8eb0490996fccb40addfd52fcdf"
   },
   {
     "item_name": "Стабилизированный раствор (100 мл)",
-    "price": 350000,
+    "price": 125000,
     "Url": "https://so-wiki.ru/wiki/%D0%A1%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80_(100_%D0%BC%D0%BB)",
     "item_id": "6cac8df83e8892fe368f3ab040cc9d6c",
     "icon_local_path": "c0f24535e980e07f5a2bf61bee395ad0"
   },
   {
     "item_name": "Стабилизированный раствор (25 мл)",
-    "price": 350000,
+    "price": 125000,
     "Url": "https://so-wiki.ru/wiki/%D0%A1%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80_(25_%D0%BC%D0%BB)",
     "item_id": "170804ecbdb1bc6e57cc26e3e0c4270d",
     "icon_local_path": "ac6530fc6e628f83730812976922a293"
   },
   {
     "item_name": "Стабилизированный раствор (50 мл)",
-    "price": 350000,
+    "price": 125000,
     "Url": "https://so-wiki.ru/wiki/%D0%A1%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80_(50_%D0%BC%D0%BB)",
     "item_id": "abff1811c3f8948f6b2edb295884d30c",
     "icon_local_path": "353d2b798c301293c36f78cb733bcf11"
   },
   {
     "item_name": "Стальная пластина",
-    "price": 50000,
+    "price": 15000,
     "Url": "https://so-wiki.ru/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BD%D0%B0",
     "item_id": "9e5d02e8a6cc6ab4ef617c02b29a2156",
     "icon_local_path": "19a71735c5ec3d54e555c5f745ec951d"
   },
   {
-    "item_name": "Старая корабельная скоба",
-    "price": 35000,
-    "Url": "https://so-wiki.ru/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%B0%D1%8F_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%81%D0%BA%D0%BE%D0%B1%D0%B0",
-    "item_id": "e66ad0708893495dabc0e859564f7b2d",
-    "icon_local_path": "4bd1317336ea1c4d6473ca1556e2e81b"
+    "item_name": "Старинный перстень",
+    "price": 498888,
+    "Url": "https://so-wiki.ru/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D1%81%D1%82%D0%B5%D0%BD%D1%8C",
+    "item_id": "656540d5e9ce5519c4a31ff870839449",
+    "icon_local_path": "4223bbf1ba3dcb668d9ecce1deef55c0"
   },
   {
     "item_name": "Старые швейные нитки",
-    "price": 5000,
+    "price": 4500,
     "Url": "https://so-wiki.ru/wiki/%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B5_%D1%88%D0%B2%D0%B5%D0%B9%D0%BD%D1%8B%D0%B5_%D0%BD%D0%B8%D1%82%D0%BA%D0%B8",
     "item_id": "4d1d3b9882556c5eb0395ff47863d9b2",
     "icon_local_path": "e6ac1aa84cc167610fab48eed61cd900"
   },
   {
+    "item_name": "Старый корабельный гвоздь",
+    "price": 88500,
+    "Url": "https://so-wiki.ru/wiki/%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B3%D0%B2%D0%BE%D0%B7%D0%B4%D1%8C",
+    "item_id": "b7ad481691fe6951c6ba84538e6b7c89",
+    "icon_local_path": "c8987523563e937679cde63115233b71"
+  },
+  {
     "item_name": "Старый литературный альманах",
-    "price": 6900,
+    "price": 8999,
     "Url": "https://so-wiki.ru/wiki/%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BB%D1%8C%D0%BC%D0%B0%D0%BD%D0%B0%D1%85",
     "item_id": "0b8793b48a28a395aa61a56209695a76",
     "icon_local_path": "fc35c5c84ab1988f47384a2c43c7583e"
   },
   {
-    "item_name": "Старый складной нож",
-    "price": 800,
-    "Url": "https://so-wiki.ru/wiki/%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9_%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%BE%D0%B9_%D0%BD%D0%BE%D0%B6",
-    "item_id": "c498fde96f7e6defabcd488182caf271",
-    "icon_local_path": "a60e7b5639b0d72cf4e2fd5dd03382f3"
-  },
-  {
     "item_name": "Стеклянная шишка",
-    "price": 200000,
+    "price": 250000,
     "Url": "https://so-wiki.ru/wiki/%D0%A1%D1%82%D0%B5%D0%BA%D0%BB%D1%8F%D0%BD%D0%BD%D0%B0%D1%8F_%D1%88%D0%B8%D1%88%D0%BA%D0%B0",
     "item_id": "df74499925c3feb30ee59af6f6a486a1",
     "icon_local_path": "355c88e4980122d4662876551bab0404"
   },
   {
-    "item_name": "Таблетки \"Панангин\"",
-    "price": 10000,
-    "Url": "https://so-wiki.ru/wiki/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B5%D1%82%D0%BA%D0%B8_%22%D0%9F%D0%B0%D0%BD%D0%B0%D0%BD%D0%B3%D0%B8%D0%BD%22",
-    "item_id": "39915f04094fa5876a9a36874f43e7c2",
-    "icon_local_path": "4ba49dd684586498d7f49c4d2c59a621"
+    "item_name": "Стеклянный шар",
+    "price": 250000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A1%D1%82%D0%B5%D0%BA%D0%BB%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9_%D1%88%D0%B0%D1%80",
+    "item_id": "dc96ce5b5d1d1e699167a2adcfed97cb",
+    "icon_local_path": "2761bd9c22c7556d37aa0d08762e4aaa"
   },
   {
     "item_name": "Талон на модификацию",
-    "price": 650000,
+    "price": 666666,
     "Url": "https://so-wiki.ru/wiki/%D0%A2%D0%B0%D0%BB%D0%BE%D0%BD_%D0%BD%D0%B0_%D0%BC%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8E",
     "item_id": "ec60025bc673c0bf57dd3746bfb9db18",
     "icon_local_path": "df9c31750d7e1685f5d6ccbe7b405fa4"
   },
   {
     "item_name": "Транзистор",
-    "price": 90000,
+    "price": 145000,
     "Url": "https://so-wiki.ru/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D0%B7%D0%B8%D1%81%D1%82%D0%BE%D1%80",
     "item_id": "5dcdc9c73640f03106f853e0376a9682",
     "icon_local_path": "d95b73cb14a5c6f7aa19d2ea2fb57dca"
   },
   {
-    "item_name": "Фейерверк из 1 залпов",
-    "price": 1000,
-    "Url": "https://so-wiki.ru/wiki/%D0%A4%D0%B5%D0%B9%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BA_%D0%B8%D0%B7_1_%D0%B7%D0%B0%D0%BB%D0%BF%D0%BE%D0%B2",
-    "item_id": "2ce331175a673dc5afe8b8f18dcb7f19",
-    "icon_local_path": "6e436753b11250e514475b77f6adeb6b"
-  },
-  {
-    "item_name": "Фейерверк из 100 залпов",
-    "price": 15000,
-    "Url": "https://so-wiki.ru/wiki/%D0%A4%D0%B5%D0%B9%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BA_%D0%B8%D0%B7_100_%D0%B7%D0%B0%D0%BB%D0%BF%D0%BE%D0%B2",
-    "item_id": "8a1b57f3a366252d84a317ab5c77211c",
-    "icon_local_path": "95015759f396e4b3009f2a38391b40f1"
-  },
-  {
-    "item_name": "Фейерверк из 20 залпов",
-    "price": 19999,
-    "Url": "https://so-wiki.ru/wiki/%D0%A4%D0%B5%D0%B9%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BA_%D0%B8%D0%B7_20_%D0%B7%D0%B0%D0%BB%D0%BF%D0%BE%D0%B2",
-    "item_id": "3ef2bb759fc4cdf422d9edc4300e3fa9",
-    "icon_local_path": "48aad857f3f71a7e916ec6789e18cc59"
-  },
-  {
-    "item_name": "Фейерверк из 50 залпов",
-    "price": 10000,
-    "Url": "https://so-wiki.ru/wiki/%D0%A4%D0%B5%D0%B9%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BA_%D0%B8%D0%B7_50_%D0%B7%D0%B0%D0%BB%D0%BF%D0%BE%D0%B2",
-    "item_id": "9a2aa2c12060359e41eec53d1822df24",
-    "icon_local_path": "90391862d4fb39e092047de7164bba0e"
-  },
-  {
     "item_name": "Фляга Солдатская",
-    "price": 30000,
+    "price": 39990,
     "Url": "https://so-wiki.ru/wiki/%D0%A4%D0%BB%D1%8F%D0%B3%D0%B0_%D0%A1%D0%BE%D0%BB%D0%B4%D0%B0%D1%82%D1%81%D0%BA%D0%B0%D1%8F",
     "item_id": "6692fe8233d982510954bddf9c94ca3b",
     "icon_local_path": "68a7adaf72e627dde28bbdbf904f11be"
   },
   {
     "item_name": "Химикат 2",
-    "price": 2000,
+    "price": 1000,
     "Url": "https://so-wiki.ru/wiki/%D0%A5%D0%B8%D0%BC%D0%B8%D0%BA%D0%B0%D1%82_2",
     "item_id": "190d2e6cd5a17e138cff2d2abcbc4655",
     "icon_local_path": "810e91e91cb0cf29cf57aa274154c70f"
   },
   {
     "item_name": "Часть такелажа старинного судна",
-    "price": 85000,
+    "price": 160000,
     "Url": "https://so-wiki.ru/wiki/%D0%A7%D0%B0%D1%81%D1%82%D1%8C_%D1%82%D0%B0%D0%BA%D0%B5%D0%BB%D0%B0%D0%B6%D0%B0_%D1%81%D1%82%D0%B0%D1%80%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D1%83%D0%B4%D0%BD%D0%B0",
     "item_id": "57dfcd37ada3c14340ec9978a8ffb747",
     "icon_local_path": "a59b5e23ebd4a598d55c48e099503fd9"
   },
   {
     "item_name": "Человеческая кость",
-    "price": 40000,
+    "price": 199999,
     "Url": "https://so-wiki.ru/wiki/%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D1%82%D1%8C",
     "item_id": "355d66d6c70bf7df6174b06d16f90114",
     "icon_local_path": "a2182f94d2011c2a7e564ac208564e4e"
   },
   {
     "item_name": "Человеческие ребра",
-    "price": 199999,
+    "price": 95000,
     "Url": "https://so-wiki.ru/wiki/%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%80%D0%B5%D0%B1%D1%80%D0%B0",
     "item_id": "f61a12e395956f17b589f789c771f26a",
     "icon_local_path": "5414218087b252eb51fc09b99749ecb2"
   },
   {
     "item_name": "Человеческий череп",
-    "price": 700000,
+    "price": 39000,
     "Url": "https://so-wiki.ru/wiki/%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%87%D0%B5%D1%80%D0%B5%D0%BF",
     "item_id": "80fd5fd52a47e85e07303a3c6c8243d0",
     "icon_local_path": "bdbca690b5a416675f0aa3887bb43cc4"
-  },
-  {
-    "item_name": "Шарики от подшипника",
-    "price": 1500,
-    "Url": "https://so-wiki.ru/wiki/%D0%A8%D0%B0%D1%80%D0%B8%D0%BA%D0%B8_%D0%BE%D1%82_%D0%BF%D0%BE%D0%B4%D1%88%D0%B8%D0%BF%D0%BD%D0%B8%D0%BA%D0%B0",
-    "item_id": "813b8fb7b0bf630d5e7eca0db7aa7fe6",
-    "icon_local_path": "70c1be0428710c3896fe8a0562b37ccc"
   },
   {
     "item_name": "Ящик консервов",
@@ -827,189 +778,161 @@
   },
   {
     "item_name": "\"Вареное противоядие\"",
-    "price": 2000,
+    "price": 33336,
     "Url": "https://so-wiki.ru/wiki/%22%D0%92%D0%B0%D1%80%D0%B5%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D1%8F%D0%B4%D0%B8%D0%B5%22",
     "item_id": "e51e25245a2c2d3e7c3ee7397a69e590",
     "icon_local_path": "ae6553c4f9793a2f9e271eb40ad24509"
   },
   {
     "item_name": "\"Вареное противоядие\" с ядом",
-    "price": 2000,
+    "price": 33336,
     "Url": "https://so-wiki.ru/wiki/%22%D0%92%D0%B0%D1%80%D0%B5%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D1%8F%D0%B4%D0%B8%D0%B5%22_%D1%81_%D1%8F%D0%B4%D0%BE%D0%BC",
     "item_id": "a0f5e53d94ddd8c2139974345d6a9575",
     "icon_local_path": "5c3ef395cb195a8249ae07da2baabfeb"
   },
   {
     "item_name": "\"Жаркое\"",
-    "price": 9999,
+    "price": 8888,
     "Url": "https://so-wiki.ru/wiki/%22%D0%96%D0%B0%D1%80%D0%BA%D0%BE%D0%B5%22",
     "item_id": "9687d1246f412b64039f4aa209b8d87f",
     "icon_local_path": "a03faa4f94c4e114c5b0ff3a74c0a8c0"
   },
   {
     "item_name": "\"Жаркое\" с ядом",
-    "price": 9999,
+    "price": 8888,
     "Url": "https://so-wiki.ru/wiki/%22%D0%96%D0%B0%D1%80%D0%BA%D0%BE%D0%B5%22_%D1%81_%D1%8F%D0%B4%D0%BE%D0%BC",
     "item_id": "43bf75389fca0d1ab56339b40b5007b7",
     "icon_local_path": "fb84d830f1975b86b0af4ac1f9b174b4"
   },
   {
-    "item_name": "\"Цинк\" патронов 7.62х39 ПС",
-    "price": 120000,
-    "Url": "https://so-wiki.ru/wiki/%22%D0%A6%D0%B8%D0%BD%D0%BA%22_%D0%BF%D0%B0%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%B2_7.62%D1%8539_%D0%9F%D0%A1",
-    "item_id": "ff34cdba52f50e76b063038a785b7879",
-    "icon_local_path": "c53b82c3475a18c75bf724bba77316cf"
-  },
-  {
     "item_name": "Аир болотный",
-    "price": 15000,
+    "price": 18000,
     "Url": "https://so-wiki.ru/wiki/%D0%90%D0%B8%D1%80_%D0%B1%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9",
     "item_id": "7fa86b1d6d91696da28529721f17a0c4",
     "icon_local_path": "2b2cd2adfa91f05b63a01ee229c282ae"
   },
   {
-    "item_name": "Ампула с Новокаином",
-    "price": 10000,
-    "Url": "https://so-wiki.ru/wiki/%D0%90%D0%BC%D0%BF%D1%83%D0%BB%D0%B0_%D1%81_%D0%9D%D0%BE%D0%B2%D0%BE%D0%BA%D0%B0%D0%B8%D0%BD%D0%BE%D0%BC",
-    "item_id": "16efd2657bda4266f947d8530d125ff7",
-    "icon_local_path": "f58015c2ba9d47437c3e5d806358513e"
-  },
-  {
     "item_name": "Ампулы с Йодом",
-    "price": 2300,
+    "price": 3300,
     "Url": "https://so-wiki.ru/wiki/%D0%90%D0%BC%D0%BF%D1%83%D0%BB%D1%8B_%D1%81_%D0%99%D0%BE%D0%B4%D0%BE%D0%BC",
     "item_id": "1927270e2feac75e7fe18e533673b9bb",
     "icon_local_path": "8c1f29131c84e31a87ba0f570e2d42bd"
   },
   {
     "item_name": "Ацетон",
-    "price": 18000,
+    "price": 24000,
     "Url": "https://so-wiki.ru/wiki/%D0%90%D1%86%D0%B5%D1%82%D0%BE%D0%BD",
     "item_id": "fc82b8dabfebbcda659bb4f9f4a928ff",
     "icon_local_path": "82dc7f63c2f5388eec3dab826551c2a1"
   },
   {
     "item_name": "Банка с вазелином",
-    "price": 10000,
+    "price": 18000,
     "Url": "https://so-wiki.ru/wiki/%D0%91%D0%B0%D0%BD%D0%BA%D0%B0_%D1%81_%D0%B2%D0%B0%D0%B7%D0%B5%D0%BB%D0%B8%D0%BD%D0%BE%D0%BC",
     "item_id": "7997679699a52dd8f150cffc9da1682d",
     "icon_local_path": "74e6d301a16dcfaf21fe65bd248af47a"
   },
   {
     "item_name": "Банка солидола",
-    "price": 19000,
+    "price": 26000,
     "Url": "https://so-wiki.ru/wiki/%D0%91%D0%B0%D0%BD%D0%BA%D0%B0_%D1%81%D0%BE%D0%BB%D0%B8%D0%B4%D0%BE%D0%BB%D0%B0",
     "item_id": "61198a22438db9de2bc6f26c48bdd5a0",
     "icon_local_path": "517623ea3fa824925fe198827e971bed"
   },
   {
     "item_name": "Банка тушенки",
-    "price": 20000,
+    "price": 999999,
     "Url": "https://so-wiki.ru/wiki/%D0%91%D0%B0%D0%BD%D0%BA%D0%B0_%D1%82%D1%83%D1%88%D0%B5%D0%BD%D0%BA%D0%B8",
     "item_id": "077fd1f5a83df47e7fbb2411a01ac90b",
     "icon_local_path": "b289ab02a0274209faac969c61b0f546"
   },
   {
     "item_name": "Белый гриб",
-    "price": 50000,
+    "price": 64000,
     "Url": "https://so-wiki.ru/wiki/%D0%91%D0%B5%D0%BB%D1%8B%D0%B9_%D0%B3%D1%80%D0%B8%D0%B1",
     "item_id": "e48f42727035f5df13dc703750f18d3b",
     "icon_local_path": "8e5ed033a89b3765ad84e1f79034317b"
   },
   {
     "item_name": "Блок особых папирос",
-    "price": 67500,
+    "price": 75000,
     "Url": "https://so-wiki.ru/wiki/%D0%91%D0%BB%D0%BE%D0%BA_%D0%BE%D1%81%D0%BE%D0%B1%D1%8B%D1%85_%D0%BF%D0%B0%D0%BF%D0%B8%D1%80%D0%BE%D1%81",
     "item_id": "1dd9269a7d89b0d2ca348692e2d38b4a",
     "icon_local_path": "05154dd395b19a1e8c5755c6b827b892"
   },
   {
     "item_name": "Блок сигарет",
-    "price": 34000,
+    "price": 52631,
     "Url": "https://so-wiki.ru/wiki/%D0%91%D0%BB%D0%BE%D0%BA_%D1%81%D0%B8%D0%B3%D0%B0%D1%80%D0%B5%D1%82",
     "item_id": "1854d6c886025bee917eeef8f505b354",
     "icon_local_path": "673b0fc944d3433150963ab348c22eec"
   },
   {
     "item_name": "Большой контейнер для хранения артефактов",
-    "price": 1595000,
+    "price": 1690000,
     "Url": "https://so-wiki.ru/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80_%D0%B4%D0%BB%D1%8F_%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B0%D1%80%D1%82%D0%B5%D1%84%D0%B0%D0%BA%D1%82%D0%BE%D0%B2",
     "item_id": "1ddce97457ca4c972da33562971c05ed",
     "icon_local_path": "68329f57e2f722ec32c1b1054010d4eb"
   },
   {
+    "item_name": "Большой нестабильный раствор",
+    "price": 720000,
+    "Url": "https://so-wiki.ru/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%BD%D0%B5%D1%81%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80",
+    "item_id": "aafa203e3dc9dcd0c3db5c55c40d3bc9",
+    "icon_local_path": "b8d70c3edca57dd26980c6c7dff2fcbf"
+  },
+  {
     "item_name": "Большой сухой паёк",
-    "price": 220926,
+    "price": 40000,
     "Url": "https://so-wiki.ru/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D1%81%D1%83%D1%85%D0%BE%D0%B9_%D0%BF%D0%B0%D1%91%D0%BA",
     "item_id": "2aa6631c23945626aae7a01425250d01",
     "icon_local_path": "821ce6744ef2971fada286c7ee417057"
   },
   {
     "item_name": "Брезент",
-    "price": 28885,
+    "price": 28999,
     "Url": "https://so-wiki.ru/wiki/%D0%91%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82",
     "item_id": "94b9d6eeb56d814374f1c1057d4f5a3f",
     "icon_local_path": "4c2a08026adfda295dcc9ed41ef3efd5"
   },
   {
     "item_name": "Бронхолитическое средство",
-    "price": 23000,
+    "price": 28000,
     "Url": "https://so-wiki.ru/wiki/%D0%91%D1%80%D0%BE%D0%BD%D1%85%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE",
     "item_id": "67313c9d37b772cacbc66ca44c826b5d",
     "icon_local_path": "ba9c4b270ff781e07198252d9203c134"
   },
   {
-    "item_name": "Бульон \"Марафонец\"",
-    "price": 10000,
-    "Url": "https://so-wiki.ru/wiki/%D0%91%D1%83%D0%BB%D1%8C%D0%BE%D0%BD_%22%D0%9C%D0%B0%D1%80%D0%B0%D1%84%D0%BE%D0%BD%D0%B5%D1%86%22",
-    "item_id": "f2063c93c016894d8940b7b88a176c05",
-    "icon_local_path": "fbf4e324fa73608d79340fed018a0b3f"
-  },
-  {
-    "item_name": "Бульон \"Марафонец\" с ядом",
-    "price": 10000,
-    "Url": "https://so-wiki.ru/wiki/%D0%91%D1%83%D0%BB%D1%8C%D0%BE%D0%BD_%22%D0%9C%D0%B0%D1%80%D0%B0%D1%84%D0%BE%D0%BD%D0%B5%D1%86%22_%D1%81_%D1%8F%D0%B4%D0%BE%D0%BC",
-    "item_id": "cddbc9a88c2577f6d7882345c66f7d9a",
-    "icon_local_path": "79bfe9e30864e01bac11e67c1f745a55"
-  },
-  {
-    "item_name": "Бульон \"Очищающий\"",
-    "price": 10555,
-    "Url": "https://so-wiki.ru/wiki/%D0%91%D1%83%D0%BB%D1%8C%D0%BE%D0%BD_%22%D0%9E%D1%87%D0%B8%D1%89%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%22",
-    "item_id": "cc0965d3a0be99cca369ae89112f6d05",
-    "icon_local_path": "c4d64bfcd9f9dc59b46b482140bc6686"
-  },
-  {
     "item_name": "Бусы янтарные",
-    "price": 82000,
+    "price": 100000,
     "Url": "https://so-wiki.ru/wiki/%D0%91%D1%83%D1%81%D1%8B_%D1%8F%D0%BD%D1%82%D0%B0%D1%80%D0%BD%D1%8B%D0%B5",
     "item_id": "70e0d0a8ee07faac9c7a14fae37badcd",
     "icon_local_path": "5c0c0682b282398c167047726d4847fd"
   },
   {
     "item_name": "Бутылка питьевой воды объёмом 0,5л",
-    "price": 1333,
+    "price": 1250,
     "Url": "https://so-wiki.ru/wiki/%D0%91%D1%83%D1%82%D1%8B%D0%BB%D0%BA%D0%B0_%D0%BF%D0%B8%D1%82%D1%8C%D0%B5%D0%B2%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B4%D1%8B_%D0%BE%D0%B1%D1%8A%D1%91%D0%BC%D0%BE%D0%BC_0,5%D0%BB",
     "item_id": "3244bc0752c63af5a18db8d9db3e5909",
     "icon_local_path": "c06ba717d1aef60df31958794800fcf8"
   },
   {
     "item_name": "Бутылка со скипидаром",
-    "price": 9999,
+    "price": 18000,
     "Url": "https://so-wiki.ru/wiki/%D0%91%D1%83%D1%82%D1%8B%D0%BB%D0%BA%D0%B0_%D1%81%D0%BE_%D1%81%D0%BA%D0%B8%D0%BF%D0%B8%D0%B4%D0%B0%D1%80%D0%BE%D0%BC",
     "item_id": "ac4bd8a6014482ffd9734dedbe0541fe",
     "icon_local_path": "e58a36d03e518e8917748519a8f64160"
   },
   {
     "item_name": "Бутылка этилового спирта",
-    "price": 52000,
+    "price": 55555,
     "Url": "https://so-wiki.ru/wiki/%D0%91%D1%83%D1%82%D1%8B%D0%BB%D0%BA%D0%B0_%D1%8D%D1%82%D0%B8%D0%BB%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D1%81%D0%BF%D0%B8%D1%80%D1%82%D0%B0",
     "item_id": "1b4e1ab8f7807266ce746879f9c6f49f",
     "icon_local_path": "15663bed8bb16e85b169196176d96bdf"
   },
   {
     "item_name": "Бутылочка этилового спирта",
-    "price": 19000,
+    "price": 10000,
     "Url": "https://so-wiki.ru/wiki/%D0%91%D1%83%D1%82%D1%8B%D0%BB%D0%BE%D1%87%D0%BA%D0%B0_%D1%8D%D1%82%D0%B8%D0%BB%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D1%81%D0%BF%D0%B8%D1%80%D1%82%D0%B0",
     "item_id": "cb8967982a70899c27047035a45cac17",
     "icon_local_path": "e05c54d92f031804dc9370d0178fcde9"
@@ -1023,98 +946,105 @@
   },
   {
     "item_name": "Волосы лешего",
-    "price": 499,
+    "price": 600,
     "Url": "https://so-wiki.ru/wiki/%D0%92%D0%BE%D0%BB%D0%BE%D1%81%D1%8B_%D0%BB%D0%B5%D1%88%D0%B5%D0%B3%D0%BE",
     "item_id": "1879542d59ba48e2c7a4d59b9530b9b6",
     "icon_local_path": "ff985026978348f2ab1a003dd5a7b936"
   },
   {
     "item_name": "Высокоточный инструмент",
-    "price": 430000,
+    "price": 320000,
     "Url": "https://so-wiki.ru/wiki/%D0%92%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82",
     "item_id": "0e5a306db270b8acd484188ba576ed4e",
     "icon_local_path": "8c9dfcd4e73c9b49354683aa741abfd8"
   },
   {
     "item_name": "Гвоздь жуткой куклы",
-    "price": 399999,
+    "price": 200000,
     "Url": "https://so-wiki.ru/wiki/%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D1%8C_%D0%B6%D1%83%D1%82%D0%BA%D0%BE%D0%B9_%D0%BA%D1%83%D0%BA%D0%BB%D1%8B",
     "item_id": "08910fef94bbdba3653ccf18f64b4573",
     "icon_local_path": "7778adfc3f851efff3cdf40a907d1e9e"
   },
   {
     "item_name": "Гидроксид натрия",
-    "price": 150000,
+    "price": 500000,
     "Url": "https://so-wiki.ru/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%BE%D0%BA%D1%81%D0%B8%D0%B4_%D0%BD%D0%B0%D1%82%D1%80%D0%B8%D1%8F",
     "item_id": "3a8d29bed82f49008b35c04d3af616b3",
     "icon_local_path": "ca61bcf912720b043c1df34241df5b5d"
   },
   {
     "item_name": "Глаз верлиоки",
-    "price": 80000,
+    "price": 100000,
     "Url": "https://so-wiki.ru/wiki/%D0%93%D0%BB%D0%B0%D0%B7_%D0%B2%D0%B5%D1%80%D0%BB%D0%B8%D0%BE%D0%BA%D0%B8",
     "item_id": "0187c78535cecb59a826820274fba2d6",
     "icon_local_path": "e89068cf01f828e99417b7b4ea4959dd"
   },
   {
     "item_name": "Голова бурого медведя",
-    "price": 60000,
+    "price": 350000,
     "Url": "https://so-wiki.ru/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0_%D0%B1%D1%83%D1%80%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8F",
     "item_id": "4c769f4e021e366508f7b539dd4386eb",
     "icon_local_path": "7186f7ad118e3a16b90758f00f72a582"
   },
   {
     "item_name": "Голова рыжего медведя",
-    "price": 50000,
+    "price": 400000,
     "Url": "https://so-wiki.ru/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0_%D1%80%D1%8B%D0%B6%D0%B5%D0%B3%D0%BE_%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8F",
     "item_id": "cf54dcbe1f6430076cc6b4d97b0d167b",
     "icon_local_path": "f806b74c144a4832e3fd4262019a733b"
   },
   {
     "item_name": "Головач продолговатый",
-    "price": 5500,
+    "price": 5000,
     "Url": "https://so-wiki.ru/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0%D1%87_%D0%BF%D1%80%D0%BE%D0%B4%D0%BE%D0%BB%D0%B3%D0%BE%D0%B2%D0%B0%D1%82%D1%8B%D0%B9",
     "item_id": "fab984941d95f215f33a5c73902c437e",
     "icon_local_path": "fee551844b45ec2ef348071a4b64ceec"
   },
   {
     "item_name": "Гриб Бледная поганка",
-    "price": 30000,
+    "price": 40000,
     "Url": "https://so-wiki.ru/wiki/%D0%93%D1%80%D0%B8%D0%B1_%D0%91%D0%BB%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B3%D0%B0%D0%BD%D0%BA%D0%B0",
     "item_id": "bdc2b095c2061ab6feb9df0f24341f12",
     "icon_local_path": "767a71d149c108f2a7a1d09738335f31"
   },
   {
     "item_name": "Гриб Мухомор",
-    "price": 150000,
+    "price": 120000,
     "Url": "https://so-wiki.ru/wiki/%D0%93%D1%80%D0%B8%D0%B1_%D0%9C%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80",
     "item_id": "9f4ce32a54094226672515cfeecc1b03",
     "icon_local_path": "e20f88fbed829ba7873e702c8fdce95b"
   },
   {
     "item_name": "Гриб масленок",
-    "price": 5999,
+    "price": 4700,
     "Url": "https://so-wiki.ru/wiki/%D0%93%D1%80%D0%B8%D0%B1_%D0%BC%D0%B0%D1%81%D0%BB%D0%B5%D0%BD%D0%BE%D0%BA",
     "item_id": "c85bbef6bde5d7155d3d5c8e6207f142",
     "icon_local_path": "6b97ff2e908e1faca12204c874c04d6e"
   },
   {
+    "item_name": "Гриб сыроежка",
+    "price": 5000,
+    "Url": "https://so-wiki.ru/wiki/%D0%93%D1%80%D0%B8%D0%B1_%D1%81%D1%8B%D1%80%D0%BE%D0%B5%D0%B6%D0%BA%D0%B0",
+    "item_id": "0902f8c136a775b4c5071bdd73544632",
+    "icon_local_path": "9e6ebf970598a9c98550033d699e07f4"
+  },
+  {
     "item_name": "Грибной нарост",
-    "price": 2699,
+    "price": 5500,
     "Url": "https://so-wiki.ru/wiki/%D0%93%D1%80%D0%B8%D0%B1%D0%BD%D0%BE%D0%B9_%D0%BD%D0%B0%D1%80%D0%BE%D1%81%D1%82",
     "item_id": "b12faedb35493e7d0b3ff2284368497a",
     "icon_local_path": "732c4eb8be77912cc0fde88729a91c61"
   },
   {
     "item_name": "Грибы лисички",
-    "price": 5500,
+    "price": 5100,
     "Url": "https://so-wiki.ru/wiki/%D0%93%D1%80%D0%B8%D0%B1%D1%8B_%D0%BB%D0%B8%D1%81%D0%B8%D1%87%D0%BA%D0%B8",
     "item_id": "cc895e334e4dfd68ad8e558713ad305a",
     "icon_local_path": "569c2b0336f54023ff3e19cbec4228dd"
   },
   {
     "item_name": "Грибы опята",
-    "price": 11700,
+    "price": 10000,
     "Url": "https://so-wiki.ru/wiki/%D0%93%D1%80%D0%B8%D0%B1%D1%8B_%D0%BE%D0%BF%D1%8F%D1%82%D0%B0",
     "item_id": "910cbcc8566670f68ed09f0a446adc54",
     "icon_local_path": "c10cc3a17548e4aa983100f4aa42be18"
@@ -1128,266 +1058,98 @@
   },
   {
     "item_name": "Дождевик грушевидный",
-    "price": 7000,
+    "price": 4900,
     "Url": "https://so-wiki.ru/wiki/%D0%94%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B8%D0%BA_%D0%B3%D1%80%D1%83%D1%88%D0%B5%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9",
     "item_id": "a5899e4f8d0203578a5c01b321cbc5cf",
     "icon_local_path": "13cef5a9b4e5f64dbbd2ec667ee7d204"
   },
   {
     "item_name": "Древесина",
-    "price": 1900,
+    "price": 999,
     "Url": "https://so-wiki.ru/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%B5%D1%81%D0%B8%D0%BD%D0%B0",
     "item_id": "53702919f2bd8b322f0b501b2d556c8f",
     "icon_local_path": "cb0838e86fcb14de850f9f3f850e661a"
   },
   {
-    "item_name": "Древесный гриб",
-    "price": 1222,
-    "Url": "https://so-wiki.ru/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%B5%D1%81%D0%BD%D1%8B%D0%B9_%D0%B3%D1%80%D0%B8%D0%B1",
-    "item_id": "ba67178b2e3247749e15a7c343dfc710",
-    "icon_local_path": "73c49e70f1c67f483e92cabce9f7f8cc"
-  },
-  {
     "item_name": "Дурман обыкновенный",
-    "price": 15000,
+    "price": 29000,
     "Url": "https://so-wiki.ru/wiki/%D0%94%D1%83%D1%80%D0%BC%D0%B0%D0%BD_%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9",
     "item_id": "aef3b48aef2024806f2540648900adeb",
     "icon_local_path": "20429bb77cc41c36e21ba0d5daa6fac4"
   },
   {
     "item_name": "Жабры верлиоки",
-    "price": 8500,
+    "price": 9000,
     "Url": "https://so-wiki.ru/wiki/%D0%96%D0%B0%D0%B1%D1%80%D1%8B_%D0%B2%D0%B5%D1%80%D0%BB%D0%B8%D0%BE%D0%BA%D0%B8",
     "item_id": "786038ded82d498d6239a2ed9ff47959",
     "icon_local_path": "79933b1ccf915c7378f267be9b048c0b"
   },
   {
     "item_name": "Жареное мясо",
-    "price": 475,
+    "price": 500,
     "Url": "https://so-wiki.ru/wiki/%D0%96%D0%B0%D1%80%D0%B5%D0%BD%D0%BE%D0%B5_%D0%BC%D1%8F%D1%81%D0%BE",
     "item_id": "913e5aec9027c923f89c091c8ab8e4f0",
     "icon_local_path": "3b89df54450c5f6a5b12b26056b21c86"
   },
   {
     "item_name": "Жареный гриб",
-    "price": 10000,
+    "price": 7000,
     "Url": "https://so-wiki.ru/wiki/%D0%96%D0%B0%D1%80%D0%B5%D0%BD%D1%8B%D0%B9_%D0%B3%D1%80%D0%B8%D0%B1",
     "item_id": "a6aa359106faa5b8a1d7f9f9dff77b51",
     "icon_local_path": "b9fd2710d2aa8a47235bfa8e41c6fdf7"
   },
   {
     "item_name": "Жвалы паука",
-    "price": 2100,
+    "price": 3300,
     "Url": "https://so-wiki.ru/wiki/%D0%96%D0%B2%D0%B0%D0%BB%D1%8B_%D0%BF%D0%B0%D1%83%D0%BA%D0%B0",
     "item_id": "6a9dbf2b6862087e9f1f93b633251dd6",
     "icon_local_path": "40fa994ff587d80a98179157001b4258"
   },
   {
-    "item_name": "Жир бляка",
-    "price": 10000,
-    "Url": "https://so-wiki.ru/wiki/%D0%96%D0%B8%D1%80_%D0%B1%D0%BB%D1%8F%D0%BA%D0%B0",
-    "item_id": "12341c17356fc6d618cbeb044f89098a",
-    "icon_local_path": "df140dc92e371f6676e22c2662eb9cdd"
-  },
-  {
     "item_name": "Жир медведя",
-    "price": 23456,
+    "price": 20000,
     "Url": "https://so-wiki.ru/wiki/%D0%96%D0%B8%D1%80_%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8F",
     "item_id": "6efb0d8e9f5b115d70085d4cecb02b7f",
     "icon_local_path": "dd57a5e4e3df9e5470ff869547df339b"
   },
   {
     "item_name": "Жуткая кукла",
-    "price": 10000000,
+    "price": 7800000,
     "Url": "https://so-wiki.ru/wiki/%D0%96%D1%83%D1%82%D0%BA%D0%B0%D1%8F_%D0%BA%D1%83%D0%BA%D0%BB%D0%B0",
     "item_id": "1750cbf4b099702cb2661ac466050484",
     "icon_local_path": "98505f694a33c27db8245b6d8664abc9"
   },
   {
     "item_name": "Заправка антидота Гепарин",
-    "price": 999987,
+    "price": 800000,
     "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0_%D0%B0%D0%BD%D1%82%D0%B8%D0%B4%D0%BE%D1%82%D0%B0_%D0%93%D0%B5%D0%BF%D0%B0%D1%80%D0%B8%D0%BD",
     "item_id": "74f306ace8870f0657c99ec1bbc1b05e",
     "icon_local_path": "66550fe64a530c43e3c35d702ab6b3bd"
   },
   {
     "item_name": "Заправка антидота Хромоспан",
-    "price": 5000000,
+    "price": 2600000,
     "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0_%D0%B0%D0%BD%D1%82%D0%B8%D0%B4%D0%BE%D1%82%D0%B0_%D0%A5%D1%80%D0%BE%D0%BC%D0%BE%D1%81%D0%BF%D0%B0%D0%BD",
     "item_id": "c5e7e6c24402e0a4c0f92602b0444dca",
     "icon_local_path": "a3be316ef5b6b602ddd0c13c0f579cfc"
   },
   {
-    "item_name": "Запчасти для Benelli M4",
-    "price": 5500000,
-    "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D0%B8_%D0%B4%D0%BB%D1%8F_Benelli_M4",
-    "item_id": "2ba84ee0085ed8a4b13375e2fe5e7b0c",
-    "icon_local_path": "c61db2d1fad5708350e75da2c1ab3317"
-  },
-  {
-    "item_name": "Запчасти для Desert Eagle",
-    "price": 1999999,
-    "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D0%B8_%D0%B4%D0%BB%D1%8F_Desert_Eagle",
-    "item_id": "0e7d90e62fdf1ebde546acde3d298759",
-    "icon_local_path": "75226219a032160dc798995bf2934887"
-  },
-  {
-    "item_name": "Запчасти для FAMAS F1",
-    "price": 1000000,
-    "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D0%B8_%D0%B4%D0%BB%D1%8F_FAMAS_F1",
-    "item_id": "8f76d1b8cc43bfa5edde6b2bc6ffb15d",
-    "icon_local_path": "3d10cf2116553f547c3d901ba2d01511"
-  },
-  {
-    "item_name": "Запчасти для FAMAS G2",
-    "price": 1000000,
-    "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D0%B8_%D0%B4%D0%BB%D1%8F_FAMAS_G2",
-    "item_id": "e4c5dd7cc775e55b8679875ae6066a1a",
-    "icon_local_path": "0ff1ca5f41d4ff98fe3a67e2fe5b45a8"
-  },
-  {
-    "item_name": "Запчасти для FN FAL 50.00",
-    "price": 27000000,
-    "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D0%B8_%D0%B4%D0%BB%D1%8F_FN_FAL_50.00",
-    "item_id": "574545c977fb8039de89a3d8af78f356",
-    "icon_local_path": "7405677831628611999a7f67454fbf02"
-  },
-  {
-    "item_name": "Запчасти для M16A1",
-    "price": 1189999,
-    "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D0%B8_%D0%B4%D0%BB%D1%8F_M16A1",
-    "item_id": "288b7fe435aeef96d6cdfe2465fb749f",
-    "icon_local_path": "68b548307fa8faa4f08c5961afa9e92d"
-  },
-  {
-    "item_name": "Запчасти для M16A2",
-    "price": 2999999,
-    "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D0%B8_%D0%B4%D0%BB%D1%8F_M16A2",
-    "item_id": "19bed34cc0c7a349aa11276f7a195153",
-    "icon_local_path": "d6a77dac2f4b851ba2cb60bf923e3113"
-  },
-  {
-    "item_name": "Запчасти для M16A3",
-    "price": 3333333,
-    "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D0%B8_%D0%B4%D0%BB%D1%8F_M16A3",
-    "item_id": "cd6e8fcd5e10a6e2379dde10bc59640a",
-    "icon_local_path": "7e1b87d801e0ac79fb4a9ffbe57148b7"
-  },
-  {
-    "item_name": "Запчасти для M16A4",
-    "price": 14000000,
-    "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D0%B8_%D0%B4%D0%BB%D1%8F_M16A4",
-    "item_id": "f4f48e5d7d7ffd26fa38d07d24cf5451",
-    "icon_local_path": "1d4809bcaba77eb4b99f81011b5a3ab1"
-  },
-  {
-    "item_name": "Запчасти для SIG SG550",
-    "price": 9999999,
-    "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D0%B8_%D0%B4%D0%BB%D1%8F_SIG_SG550",
-    "item_id": "0664e808a0e76ac8b98a3c4e0d8bfc15",
-    "icon_local_path": "f2a4455cef31dc03186d53cd26844b9f"
-  },
-  {
-    "item_name": "Запчасти для UZI",
-    "price": 400000,
-    "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D0%B8_%D0%B4%D0%BB%D1%8F_UZI",
-    "item_id": "9d64d9c77d0a3f77e69201837c8eb5f6",
-    "icon_local_path": "b065478db5a77fc6fafb84e7c724fce4"
-  },
-  {
-    "item_name": "Запчасти для АК74",
-    "price": 1499987,
-    "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D0%B8_%D0%B4%D0%BB%D1%8F_%D0%90%D0%9A74",
-    "item_id": "c11730695ec08dd81c66eab9b27cbc9a",
-    "icon_local_path": "e3c8cdba2d6cda842180c84b71afce1a"
-  },
-  {
-    "item_name": "Запчасти для АКМ",
-    "price": 1500000,
-    "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D0%B8_%D0%B4%D0%BB%D1%8F_%D0%90%D0%9A%D0%9C",
-    "item_id": "cae8bf6ee9182e9aeaab9d76a199ff49",
-    "icon_local_path": "e94252fefa1de462736887e80f5b13d7"
-  },
-  {
-    "item_name": "Запчасти для АКМС",
-    "price": 1500000,
-    "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D0%B8_%D0%B4%D0%BB%D1%8F_%D0%90%D0%9A%D0%9C%D0%A1",
-    "item_id": "19f557d7a472cc4a790b4fc41e69c744",
-    "icon_local_path": "a042f7b75f2d33bf44f0dab2af1c2bf1"
-  },
-  {
-    "item_name": "Запчасти для АС \"Вал\"",
-    "price": 14500000,
-    "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D0%B8_%D0%B4%D0%BB%D1%8F_%D0%90%D0%A1_%22%D0%92%D0%B0%D0%BB%22",
-    "item_id": "7de5bd1a08e24cf2a676b75584266bfe",
-    "icon_local_path": "c88317d9414e38152388f5e08c6cdaf4"
-  },
-  {
-    "item_name": "Запчасти для В.Мосина",
-    "price": 140000,
-    "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D0%B8_%D0%B4%D0%BB%D1%8F_%D0%92.%D0%9C%D0%BE%D1%81%D0%B8%D0%BD%D0%B0",
-    "item_id": "9362cfd28dfedfaa15d8e777a3aafd4f",
-    "icon_local_path": "301ee48f3ac27da3894da09bbaa82cfc"
-  },
-  {
-    "item_name": "Запчасти для СВД",
-    "price": 9000000,
-    "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D0%B8_%D0%B4%D0%BB%D1%8F_%D0%A1%D0%92%D0%94",
-    "item_id": "d3ff816b6368523231a9ce74e76c3920",
-    "icon_local_path": "45b7a72e396776e8d6ca619f8651d38e"
-  },
-  {
-    "item_name": "Запчасти для СКС",
-    "price": 17300000,
-    "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D0%B8_%D0%B4%D0%BB%D1%8F_%D0%A1%D0%9A%D0%A1",
-    "item_id": "6f09f36f90f7ad139b2eb19241f21b40",
-    "icon_local_path": "02f4a8e782ebf13693b4f4a3518e1dc6"
-  },
-  {
-    "item_name": "Запчасти для Сайга 12К",
-    "price": 1550000,
-    "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D0%B8_%D0%B4%D0%BB%D1%8F_%D0%A1%D0%B0%D0%B9%D0%B3%D0%B0_12%D0%9A",
-    "item_id": "f869e7c458e8049d6750ed52dcf7ac78",
-    "icon_local_path": "c0b05e5bdd5e262a53c68ad0aff94545"
-  },
-  {
-    "item_name": "Запчасти для ТТ",
-    "price": 55555,
-    "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D0%B8_%D0%B4%D0%BB%D1%8F_%D0%A2%D0%A2",
-    "item_id": "97e9fdc9698b08cce406f8ddc9dcfdb7",
-    "icon_local_path": "56480e1d7a469f92db4268635ae74fc4"
-  },
-  {
-    "item_name": "Запчасти для револьвера Нагана",
-    "price": 150000,
-    "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D0%B8_%D0%B4%D0%BB%D1%8F_%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D1%8C%D0%B2%D0%B5%D1%80%D0%B0_%D0%9D%D0%B0%D0%B3%D0%B0%D0%BD%D0%B0",
-    "item_id": "2b2246b0989b3954a90cd836db004869",
-    "icon_local_path": "bd6bfcf8cef9df787cc5d17b16e4e958"
-  },
-  {
-    "item_name": "Запчасти для револьвера Нагана Охотничьего",
-    "price": 150000,
-    "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D0%BF%D1%87%D0%B0%D1%81%D1%82%D0%B8_%D0%B4%D0%BB%D1%8F_%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D1%8C%D0%B2%D0%B5%D1%80%D0%B0_%D0%9D%D0%B0%D0%B3%D0%B0%D0%BD%D0%B0_%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D1%87%D1%8C%D0%B5%D0%B3%D0%BE",
-    "item_id": "926f1d01f5f44a5b47590a300d63146d",
-    "icon_local_path": "fe4a8787a2c515cac00d59f614103792"
-  },
-  {
-    "item_name": "Заражённое растение",
-    "price": 700000,
-    "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D1%80%D0%B0%D0%B6%D1%91%D0%BD%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D0%B5",
-    "item_id": "cc0d6f12b5bca233292830dc1511d719",
-    "icon_local_path": "3dbba6fd9768fae6f29a65ba280e8f8d"
+    "item_name": "Заправка инъектора очищенной \"Брусниковкой\"",
+    "price": 10000000,
+    "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0_%D0%B8%D0%BD%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B0_%D0%BE%D1%87%D0%B8%D1%89%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%22%D0%91%D1%80%D1%83%D1%81%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%BA%D0%BE%D0%B9%22",
+    "item_id": "9043649030e4b74ac2c0c9961dc1fd3d",
+    "icon_local_path": "d0bce9cc0ca6bbdce86867105b0c54d6"
   },
   {
     "item_name": "Звездовик тройной",
-    "price": 25000,
+    "price": 20000,
     "Url": "https://so-wiki.ru/wiki/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%BE%D0%B2%D0%B8%D0%BA_%D1%82%D1%80%D0%BE%D0%B9%D0%BD%D0%BE%D0%B9",
     "item_id": "a159bd2eaa7260c0ca2b16bf63f6d100",
     "icon_local_path": "3affe42a8a642b230fb215d2e2383e70"
   },
   {
     "item_name": "Золотое кольцо",
-    "price": 120000,
+    "price": 170000,
     "Url": "https://so-wiki.ru/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B5_%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE",
     "item_id": "03dd41883e54a7b5f6e7b5da5ef802d7",
     "icon_local_path": "6644f2d3cad9b0691b5b48f39e08acf4"
@@ -1401,119 +1163,126 @@
   },
   {
     "item_name": "Игла репья",
-    "price": 5000,
+    "price": 9444,
     "Url": "https://so-wiki.ru/wiki/%D0%98%D0%B3%D0%BB%D0%B0_%D1%80%D0%B5%D0%BF%D1%8C%D1%8F",
     "item_id": "d97c03d7f58b0fa1a44948b5dbab2010",
     "icon_local_path": "b7b2fe53dfc07c73cdbf11ff637f94ac"
   },
   {
     "item_name": "Игрушечный мишка",
-    "price": 1000000,
+    "price": 999999,
     "Url": "https://so-wiki.ru/wiki/%D0%98%D0%B3%D1%80%D1%83%D1%88%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B8%D1%88%D0%BA%D0%B0",
     "item_id": "8636e002dfd4949ac9a9f366b940daa9",
     "icon_local_path": "7c70d3afe69b51c0b8bdd60dcb329fb4"
   },
   {
     "item_name": "Изоляционная лента",
-    "price": 7000,
+    "price": 9000,
     "Url": "https://so-wiki.ru/wiki/%D0%98%D0%B7%D0%BE%D0%BB%D1%8F%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B5%D0%BD%D1%82%D0%B0",
     "item_id": "21e2871e51eaf821276cff73593494e6",
     "icon_local_path": "92f0de5c51f2d972b69fe858d25c06ec"
   },
   {
     "item_name": "Инъектор пустой",
-    "price": 75000,
+    "price": 77000,
     "Url": "https://so-wiki.ru/wiki/%D0%98%D0%BD%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D1%80_%D0%BF%D1%83%D1%81%D1%82%D0%BE%D0%B9",
     "item_id": "278cbc8c4e45c704689c69a61406a052",
     "icon_local_path": "7b0ed5fa0cd5ddc9d147903a48f03a53"
   },
   {
     "item_name": "Картофель",
-    "price": 7900,
+    "price": 8500,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D1%84%D0%B5%D0%BB%D1%8C",
     "item_id": "78440696db89c6528d994dca721a968c",
     "icon_local_path": "5a1ee8d26c5851eb39c3cc34f803d90f"
   },
   {
     "item_name": "Катушка медной проволоки",
-    "price": 9500,
+    "price": 8000,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%B0%D1%82%D1%83%D1%88%D0%BA%D0%B0_%D0%BC%D0%B5%D0%B4%D0%BD%D0%BE%D0%B9_%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%BB%D0%BE%D0%BA%D0%B8",
     "item_id": "b8d2928f0c046d76a64f44a10f303f0e",
     "icon_local_path": "e7e9f6c997a38b5ba6de16db26351364"
   },
   {
     "item_name": "Каша \"Здоровяк\"",
-    "price": 70000,
+    "price": 60000,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%B0%D1%88%D0%B0_%22%D0%97%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%8F%D0%BA%22",
     "item_id": "c694c7f388a240f5162cc681edb337da",
     "icon_local_path": "28a5afbc4545d97206add2e71a765939"
   },
   {
     "item_name": "Каша \"Тонизирующая\"",
-    "price": 4000,
+    "price": 41111,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%B0%D1%88%D0%B0_%22%D0%A2%D0%BE%D0%BD%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B0%D1%8F%22",
     "item_id": "802be623f05bb33f1cef55565c73b998",
     "icon_local_path": "000c3d2bac9167de498f7b54604a186d"
   },
   {
     "item_name": "Каша \"Тонизирующая\" с ядом",
-    "price": 4000,
+    "price": 41111,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%B0%D1%88%D0%B0_%22%D0%A2%D0%BE%D0%BD%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B0%D1%8F%22_%D1%81_%D1%8F%D0%B4%D0%BE%D0%BC",
     "item_id": "b6aa0087c88abd7cfa57b16fda9fe06f",
     "icon_local_path": "3237ef892f7aa46e2a25579b303b5c68"
   },
   {
     "item_name": "Клемма",
-    "price": 7777,
+    "price": 4000,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%BB%D0%B5%D0%BC%D0%BC%D0%B0",
     "item_id": "40862cc4e9b5a0db214dadc594efa403",
     "icon_local_path": "17ad678d99046bcd61550ea4d7b0d9e6"
   },
   {
     "item_name": "Клык",
-    "price": 590,
+    "price": 500,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%BB%D1%8B%D0%BA",
     "item_id": "8f154f56fd34ed4458cddfd003c86518",
     "icon_local_path": "029b2839374eccd8270639cb9776355c"
   },
   {
     "item_name": "Клык борова",
-    "price": 999,
+    "price": 2000,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%BB%D1%8B%D0%BA_%D0%B1%D0%BE%D1%80%D0%BE%D0%B2%D0%B0",
     "item_id": "836251c95309ba10758a4eddc9e470ba",
     "icon_local_path": "1323a408af7fe817a338c678c67c0d99"
   },
   {
     "item_name": "Клык кабана",
-    "price": 700,
+    "price": 600,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%BB%D1%8B%D0%BA_%D0%BA%D0%B0%D0%B1%D0%B0%D0%BD%D0%B0",
     "item_id": "b5ff3ff870158bb403f5e0c2d292426c",
     "icon_local_path": "c0766f86a7d2c7a3ae2cfaaa957fe9f3"
   },
   {
     "item_name": "Клык молодого кабана",
-    "price": 590,
+    "price": 500,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%BB%D1%8B%D0%BA_%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B3%D0%BE_%D0%BA%D0%B0%D0%B1%D0%B0%D0%BD%D0%B0",
     "item_id": "287baa6bd941041fc7d7e9d5b7d77a5a",
     "icon_local_path": "9488879247f4d1233404190f581d039f"
   },
   {
     "item_name": "Коготь подвального бляка",
-    "price": 4000,
+    "price": 5000,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%BE%D0%B3%D0%BE%D1%82%D1%8C_%D0%BF%D0%BE%D0%B4%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B1%D0%BB%D1%8F%D0%BA%D0%B0",
     "item_id": "f154330dd5c4c2bd74b634962364987d",
     "icon_local_path": "6e85864636774e0b3f3a66a265435909"
   },
   {
     "item_name": "Кокушник",
-    "price": 75000,
+    "price": 6000,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%BE%D0%BA%D1%83%D1%88%D0%BD%D0%B8%D0%BA",
     "item_id": "c84e17c20ca7dfbabc6ecdfa824a6fdd",
     "icon_local_path": "f9288d4850724eda107e3b5e9f36d551"
   },
   {
+    "item_name": "Колбаса вареная \"Диетическая\"",
+    "price": 42000,
+    "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%BE%D0%BB%D0%B1%D0%B0%D1%81%D0%B0_%D0%B2%D0%B0%D1%80%D0%B5%D0%BD%D0%B0%D1%8F_%22%D0%94%D0%B8%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%22",
+    "item_id": "e09327cdfa6372034530f50cc31b4ed7",
+    "icon_local_path": "221629f8012862728901fabb4e1eac21"
+  },
+  {
     "item_name": "Колбаса вареная \"Любительская\"",
-    "price": 66666,
+    "price": 42000,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%BE%D0%BB%D0%B1%D0%B0%D1%81%D0%B0_%D0%B2%D0%B0%D1%80%D0%B5%D0%BD%D0%B0%D1%8F_%22%D0%9B%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%22",
     "item_id": "e539291234618539fc497c5cc6b3d936",
     "icon_local_path": "9c31385a82c961328a9d1b31e3c3aba1"
@@ -1526,71 +1295,92 @@
     "icon_local_path": "58cd68bfa9e5efb7530afb6d693a835c"
   },
   {
+    "item_name": "Колбаса сырокопченая \"Любительская\"",
+    "price": 40000,
+    "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%BE%D0%BB%D0%B1%D0%B0%D1%81%D0%B0_%D1%81%D1%8B%D1%80%D0%BE%D0%BA%D0%BE%D0%BF%D1%87%D0%B5%D0%BD%D0%B0%D1%8F_%22%D0%9B%D1%8E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%22",
+    "item_id": "0e857015537db95e2193d3e9d05682a1",
+    "icon_local_path": "d967ac146688cd3cdd88f9074e36e173"
+  },
+  {
     "item_name": "Колено борова-мутанта",
-    "price": 9799,
+    "price": 10000,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE_%D0%B1%D0%BE%D1%80%D0%BE%D0%B2%D0%B0-%D0%BC%D1%83%D1%82%D0%B0%D0%BD%D1%82%D0%B0",
     "item_id": "c3074c0599f5b6a45f3074dd231f47e5",
     "icon_local_path": "f9438602ec92193b1ca21b5c247c44eb"
   },
   {
     "item_name": "Комплект для ухода за оружием",
-    "price": 450000,
+    "price": 489990,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82_%D0%B4%D0%BB%D1%8F_%D1%83%D1%85%D0%BE%D0%B4%D0%B0_%D0%B7%D0%B0_%D0%BE%D1%80%D1%83%D0%B6%D0%B8%D0%B5%D0%BC",
     "item_id": "076874fd6f19b26f907fed0a65503f5f",
     "icon_local_path": "699f7b985833f176588d866630722b50"
   },
   {
     "item_name": "Корень Аира",
-    "price": 25000,
+    "price": 10000,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%BD%D1%8C_%D0%90%D0%B8%D1%80%D0%B0",
     "item_id": "b7ae36e083390c2e8d07a127d5f7457d",
     "icon_local_path": "eb205299dcfd3bd6bbada3750282137c"
   },
   {
     "item_name": "Корень одуванчика",
-    "price": 5555,
+    "price": 2200,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%BD%D1%8C_%D0%BE%D0%B4%D1%83%D0%B2%D0%B0%D0%BD%D1%87%D0%B8%D0%BA%D0%B0",
     "item_id": "8fa58bd2a03f7e5c159b190c709be4fc",
     "icon_local_path": "83118af06da387a1ea404acf9b214857"
   },
   {
     "item_name": "Корень солодки",
-    "price": 5000,
+    "price": 3750,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%BD%D1%8C_%D1%81%D0%BE%D0%BB%D0%BE%D0%B4%D0%BA%D0%B8",
     "item_id": "1d01898218c7498c6e799b21733113d2",
     "icon_local_path": "5fb0471d42b8245f53c570ced83529cc"
   },
   {
-    "item_name": "Корпус от старой криогенной камеры охладителя инсулина",
+    "item_name": "Коробка медикаментов",
+    "price": 50000,
+    "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%B0_%D0%BC%D0%B5%D0%B4%D0%B8%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2",
+    "item_id": "74e09ef91b9ef22b855b37bdabdffa2e",
+    "icon_local_path": "50f125c47b0aafe40cd9ee6f4a7f61e5"
+  },
+  {
+    "item_name": "Корпус МЗА",
+    "price": 200000,
+    "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81_%D0%9C%D0%97%D0%90",
+    "item_id": "016a0aad9fb5509a2bba85e4fa7260fa",
+    "icon_local_path": "2345586eaa9767cb9cb87c3e04e395eb"
+  },
+  {
+    "item_name": "Корпус автомобильного аккумулятора",
     "price": 400000,
+    "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B0",
+    "item_id": "287b513765808c020c2fddf1afd6ae4b",
+    "icon_local_path": "a8159bf2e6fe4b1ab2160b3ad651db30"
+  },
+  {
+    "item_name": "Корпус от старой криогенной камеры охладителя инсулина",
+    "price": 399999,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81_%D0%BE%D1%82_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%B9_%D0%BA%D1%80%D0%B8%D0%BE%D0%B3%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BA%D0%B0%D0%BC%D0%B5%D1%80%D1%8B_%D0%BE%D1%85%D0%BB%D0%B0%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8F_%D0%B8%D0%BD%D1%81%D1%83%D0%BB%D0%B8%D0%BD%D0%B0",
     "item_id": "b8d45f4583e7c57973daa64be0cd7ec6",
     "icon_local_path": "b5579cf43a5bf3f55c5c9f63bbf12501"
   },
   {
-    "item_name": "Котелок ВДВ",
-    "price": 70000,
-    "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%BE%D1%82%D0%B5%D0%BB%D0%BE%D0%BA_%D0%92%D0%94%D0%92",
-    "item_id": "6bc3f2581037a01ad4465fabf3f12726",
-    "icon_local_path": "0baee423d3b1f1a969594b4cf46b45ad"
-  },
-  {
     "item_name": "Котелок туристический",
-    "price": 344444,
+    "price": 350000,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D0%BE%D1%82%D0%B5%D0%BB%D0%BE%D0%BA_%D1%82%D1%83%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9",
     "item_id": "6ce3f9b244eedbee8e72b5e45fc85ce3",
     "icon_local_path": "62f37496f0280bc6df110f7ddde41eb1"
   },
   {
     "item_name": "Крупная гайка",
-    "price": 5000,
+    "price": 9000,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D1%80%D1%83%D0%BF%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B0%D0%B9%D0%BA%D0%B0",
     "item_id": "d1525bb81645d8d5d74a89deee27d5cb",
     "icon_local_path": "1ed36873a580a65ac12b45a2ea9cba8d"
   },
   {
     "item_name": "Крупные шайбы",
-    "price": 2000,
+    "price": 2500,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B5_%D1%88%D0%B0%D0%B9%D0%B1%D1%8B",
     "item_id": "a1e18765df11b5abff87edadc5b0193a",
     "icon_local_path": "2c7302dc0d52fb3dd0b5d142b6c89c61"
@@ -1604,119 +1394,133 @@
   },
   {
     "item_name": "Кукла",
-    "price": 600000,
+    "price": 500000,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D1%83%D0%BA%D0%BB%D0%B0",
     "item_id": "584c0f01f369fd3618b9be645d4eda4b",
     "icon_local_path": "9bf1facca36c3b24e646b69939dd5c72"
   },
   {
     "item_name": "Кусок древесного угля",
-    "price": 2400,
+    "price": 500,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D1%83%D1%81%D0%BE%D0%BA_%D0%B4%D1%80%D0%B5%D0%B2%D0%B5%D1%81%D0%BD%D0%BE%D0%B3%D0%BE_%D1%83%D0%B3%D0%BB%D1%8F",
     "item_id": "cb068ca196a963eb2bd215306145c8da",
     "icon_local_path": "c5ea47871e5dc6d60bee0e07dd05c884"
   },
   {
     "item_name": "Кусок каменного угля",
-    "price": 2500,
+    "price": 500,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D1%83%D1%81%D0%BE%D0%BA_%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D1%83%D0%B3%D0%BB%D1%8F",
     "item_id": "ee6340740b7d6a64ed01bfb3e63a121f",
     "icon_local_path": "bd637d58feeaebf03858a5d8e12004b5"
   },
   {
     "item_name": "Кусок каменной соли",
-    "price": 87000,
+    "price": 96999,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D1%83%D1%81%D0%BE%D0%BA_%D0%BA%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D1%81%D0%BE%D0%BB%D0%B8",
     "item_id": "d3d16ca1b3efc66b515f41ba6529d15f",
     "icon_local_path": "c8f6176c863f513e6a472976f35e67dc"
   },
   {
     "item_name": "Кусок мела",
-    "price": 10000,
+    "price": 20000,
     "Url": "https://so-wiki.ru/wiki/%D0%9A%D1%83%D1%81%D0%BE%D0%BA_%D0%BC%D0%B5%D0%BB%D0%B0",
     "item_id": "c57c7ae1832d7a48eb5f9629549cac6f",
     "icon_local_path": "16619579255f134f60713cf2ee9ed983"
   },
   {
+    "item_name": "Кусок торфа",
+    "price": 2000,
+    "Url": "https://so-wiki.ru/wiki/%D0%9A%D1%83%D1%81%D0%BE%D0%BA_%D1%82%D0%BE%D1%80%D1%84%D0%B0",
+    "item_id": "541c2d5bf9001b1bc78b177a7e1f30c3",
+    "icon_local_path": "336c864b781cc482a602f532cc0fa836"
+  },
+  {
+    "item_name": "Лак по дереву",
+    "price": 34000,
+    "Url": "https://so-wiki.ru/wiki/%D0%9B%D0%B0%D0%BA_%D0%BF%D0%BE_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D1%83",
+    "item_id": "dda4cc17eb6eaea56cf77b778e74a4af",
+    "icon_local_path": "e9252e74a5675993ad82718a400937d7"
+  },
+  {
     "item_name": "Лапа большого паука",
-    "price": 850,
+    "price": 1099,
     "Url": "https://so-wiki.ru/wiki/%D0%9B%D0%B0%D0%BF%D0%B0_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B3%D0%BE_%D0%BF%D0%B0%D1%83%D0%BA%D0%B0",
     "item_id": "47e9c70387a2d63f4beb3b3956e00f72",
     "icon_local_path": "f88c10153ed6a6a5768f5b7d13fc324b"
   },
   {
     "item_name": "Лапа верлиоки",
-    "price": 3000,
+    "price": 4300,
     "Url": "https://so-wiki.ru/wiki/%D0%9B%D0%B0%D0%BF%D0%B0_%D0%B2%D0%B5%D1%80%D0%BB%D0%B8%D0%BE%D0%BA%D0%B8",
     "item_id": "4a57794c8623cb7f732d5383d1d2e20a",
     "icon_local_path": "2932f8a75fb5e2d60d230b3976855afb"
   },
   {
     "item_name": "Лапа молодой верлиоки",
-    "price": 8999,
+    "price": 1000,
     "Url": "https://so-wiki.ru/wiki/%D0%9B%D0%B0%D0%BF%D0%B0_%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B9_%D0%B2%D0%B5%D1%80%D0%BB%D0%B8%D0%BE%D0%BA%D0%B8",
     "item_id": "ad2428d0820f9c06c0da52a4a00982f6",
     "icon_local_path": "123b2e89638bc53ae7f3d5fa9dd8bfd0"
   },
   {
     "item_name": "Лапа панцирной верлиоки",
-    "price": 30000,
+    "price": 32000,
     "Url": "https://so-wiki.ru/wiki/%D0%9B%D0%B0%D0%BF%D0%B0_%D0%BF%D0%B0%D0%BD%D1%86%D0%B8%D1%80%D0%BD%D0%BE%D0%B9_%D0%B2%D0%B5%D1%80%D0%BB%D0%B8%D0%BE%D0%BA%D0%B8",
     "item_id": "8360aefcec7bac519a86b32a8eb404ad",
     "icon_local_path": "7dc9962c9f3759ca43be986b7cfd994f"
   },
   {
     "item_name": "Лапа паука",
-    "price": 950,
+    "price": 3000,
     "Url": "https://so-wiki.ru/wiki/%D0%9B%D0%B0%D0%BF%D0%B0_%D0%BF%D0%B0%D1%83%D0%BA%D0%B0",
     "item_id": "a8d5073557b2b01dd62086ee4312a5d0",
     "icon_local_path": "a5dc9c32995f8ad6221dc1df8da70166"
   },
   {
     "item_name": "Лапа торфяного паука",
-    "price": 350000,
+    "price": 366666,
     "Url": "https://so-wiki.ru/wiki/%D0%9B%D0%B0%D0%BF%D0%B0_%D1%82%D0%BE%D1%80%D1%84%D1%8F%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D0%B0%D1%83%D0%BA%D0%B0",
     "item_id": "57b3a2210bc051530f07f86248fd5f3f",
     "icon_local_path": "356bde4d38bfc7f5025e2446c3682034"
   },
   {
+    "item_name": "Лапа черной верлиоки",
+    "price": 33000,
+    "Url": "https://so-wiki.ru/wiki/%D0%9B%D0%B0%D0%BF%D0%B0_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B9_%D0%B2%D0%B5%D1%80%D0%BB%D0%B8%D0%BE%D0%BA%D0%B8",
+    "item_id": "574b0b4f8878cc16e5d3c0484882e6f8",
+    "icon_local_path": "d11b3115174a97f03483a63b9891538f"
+  },
+  {
     "item_name": "Левая нога жуткой куклы",
-    "price": 90000,
+    "price": 95000,
     "Url": "https://so-wiki.ru/wiki/%D0%9B%D0%B5%D0%B2%D0%B0%D1%8F_%D0%BD%D0%BE%D0%B3%D0%B0_%D0%B6%D1%83%D1%82%D0%BA%D0%BE%D0%B9_%D0%BA%D1%83%D0%BA%D0%BB%D1%8B",
     "item_id": "0fef1cb03a16f6cef1f385f14a77ba65",
     "icon_local_path": "e0c68dd50d1b518ce5bb02d032bd1b99"
   },
   {
-    "item_name": "Левая рука жуткой куклы",
-    "price": 70000,
-    "Url": "https://so-wiki.ru/wiki/%D0%9B%D0%B5%D0%B2%D0%B0%D1%8F_%D1%80%D1%83%D0%BA%D0%B0_%D0%B6%D1%83%D1%82%D0%BA%D0%BE%D0%B9_%D0%BA%D1%83%D0%BA%D0%BB%D1%8B",
-    "item_id": "a9b7cbf4dc1a5aed1e8b8605fa973fe2",
-    "icon_local_path": "79233142795f7c881738dc47fe7bb3b5"
-  },
-  {
     "item_name": "Лепесток малого вулканического гриба",
-    "price": 29000,
+    "price": 34000,
     "Url": "https://so-wiki.ru/wiki/%D0%9B%D0%B5%D0%BF%D0%B5%D1%81%D1%82%D0%BE%D0%BA_%D0%BC%D0%B0%D0%BB%D0%BE%D0%B3%D0%BE_%D0%B2%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B3%D1%80%D0%B8%D0%B1%D0%B0",
     "item_id": "1cf8afc4c988602b406836c254a91068",
     "icon_local_path": "e45fc76e1705d337357541f5fac48a7a"
   },
   {
     "item_name": "Лист Подорожника",
-    "price": 2500,
+    "price": 9000,
     "Url": "https://so-wiki.ru/wiki/%D0%9B%D0%B8%D1%81%D1%82_%D0%9F%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0",
     "item_id": "324fec98b4ffeff4a308856934542347",
     "icon_local_path": "a1ce1396fbff7665ab56a4242bdc66d6"
   },
   {
     "item_name": "Ложки серебряные",
-    "price": 220926,
+    "price": 20000,
     "Url": "https://so-wiki.ru/wiki/%D0%9B%D0%BE%D0%B6%D0%BA%D0%B8_%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D1%8F%D0%BD%D1%8B%D0%B5",
     "item_id": "b0108a7e22800e5e03efd5f13f3f309c",
     "icon_local_path": "649f0f30350bbc1c72c485756a613f2f"
   },
   {
     "item_name": "Лоскут ткани",
-    "price": 1300,
+    "price": 1500,
     "Url": "https://so-wiki.ru/wiki/%D0%9B%D0%BE%D1%81%D0%BA%D1%83%D1%82_%D1%82%D0%BA%D0%B0%D0%BD%D0%B8",
     "item_id": "ae6dd87453238ee238ab719e05bad8ea",
     "icon_local_path": "c702624d18dc9462d7660bda1f615681"
@@ -1730,7 +1534,7 @@
   },
   {
     "item_name": "Магнитный захват артефактов (сломанный)",
-    "price": 14999,
+    "price": 80000,
     "Url": "https://so-wiki.ru/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D1%85%D0%B2%D0%B0%D1%82_%D0%B0%D1%80%D1%82%D0%B5%D1%84%D0%B0%D0%BA%D1%82%D0%BE%D0%B2_(%D1%81%D0%BB%D0%BE%D0%BC%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9)",
     "item_id": "65a583a94c836a2208bb66913787f13b",
     "icon_local_path": "ec87bc45a724dd1bdf85d061301778c8"
@@ -1744,70 +1548,70 @@
   },
   {
     "item_name": "Малый сухой паёк",
-    "price": 25000,
+    "price": 10000,
     "Url": "https://so-wiki.ru/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D1%81%D1%83%D1%85%D0%BE%D0%B9_%D0%BF%D0%B0%D1%91%D0%BA",
     "item_id": "e403213bbdf52812aef6db17f6114c7b",
     "icon_local_path": "b69ef6871560f0751618b1e5275490c6"
   },
   {
     "item_name": "Маска",
-    "price": 300000,
+    "price": 400000,
     "Url": "https://so-wiki.ru/wiki/%D0%9C%D0%B0%D1%81%D0%BA%D0%B0",
     "item_id": "390e6c2a602d8e30fc7f0e3d993412c8",
     "icon_local_path": "f64c5a9e8b07eb7fba84dcfc920c0511"
   },
   {
     "item_name": "Медальон ведуна",
-    "price": 13500,
+    "price": 1111,
     "Url": "https://so-wiki.ru/wiki/%D0%9C%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C%D0%BE%D0%BD_%D0%B2%D0%B5%D0%B4%D1%83%D0%BD%D0%B0",
     "item_id": "a8d94e3b7b07a96e1e5ae878f8c01abf",
     "icon_local_path": "a8e574b83358b4d77ed72297ebb05f4c"
   },
   {
     "item_name": "Медальон зрячего ведуна",
-    "price": 28000,
+    "price": 30000,
     "Url": "https://so-wiki.ru/wiki/%D0%9C%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C%D0%BE%D0%BD_%D0%B7%D1%80%D1%8F%D1%87%D0%B5%D0%B3%D0%BE_%D0%B2%D0%B5%D0%B4%D1%83%D0%BD%D0%B0",
     "item_id": "3234902447f026fed8a841d00d2b3436",
     "icon_local_path": "d2b9cc065e759f047405a6f55564c783"
   },
   {
     "item_name": "Медальон слепого ведуна",
-    "price": 39000,
+    "price": 35777,
     "Url": "https://so-wiki.ru/wiki/%D0%9C%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C%D0%BE%D0%BD_%D1%81%D0%BB%D0%B5%D0%BF%D0%BE%D0%B3%D0%BE_%D0%B2%D0%B5%D0%B4%D1%83%D0%BD%D0%B0",
     "item_id": "86937979336cf8dc87482f504236ba3c",
     "icon_local_path": "4c146adfa63bed2761c53b639f5a773f"
   },
   {
     "item_name": "Медная проволока",
-    "price": 2000,
+    "price": 3000,
     "Url": "https://so-wiki.ru/wiki/%D0%9C%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%BB%D0%BE%D0%BA%D0%B0",
     "item_id": "d714da666a3eec46f572e959d426fefa",
     "icon_local_path": "d580022800cfc573b60a9f1bcb5f09f0"
   },
   {
     "item_name": "Микросхема",
-    "price": 380000,
+    "price": 500000,
     "Url": "https://so-wiki.ru/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D1%85%D0%B5%D0%BC%D0%B0",
     "item_id": "688eb82072c34143983f08d7b0180985",
     "icon_local_path": "f0c9164aa7042ce4d522e4860b2197d4"
   },
   {
     "item_name": "Микрочип",
-    "price": 14000,
+    "price": 13000,
     "Url": "https://so-wiki.ru/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%87%D0%B8%D0%BF",
     "item_id": "31c088dd00600e21bf1957031fe1b2f7",
     "icon_local_path": "b55408b6fe20ff02ec0df1cd1ee3c815"
   },
   {
     "item_name": "Микрочип Непробиваемого",
-    "price": 360000,
+    "price": 390000,
     "Url": "https://so-wiki.ru/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%87%D0%B8%D0%BF_%D0%9D%D0%B5%D0%BF%D1%80%D0%BE%D0%B1%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC%D0%BE%D0%B3%D0%BE",
     "item_id": "9538ce125e4d08d080aaebf7a600f006",
     "icon_local_path": "00e51741af3bf0e271cd48d8083fa440"
   },
   {
     "item_name": "Многоликая голова куклы",
-    "price": 850000,
+    "price": 499999,
     "Url": "https://so-wiki.ru/wiki/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D0%BB%D0%B8%D0%BA%D0%B0%D1%8F_%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0_%D0%BA%D1%83%D0%BA%D0%BB%D1%8B",
     "item_id": "42a500ee3a818f412543a8f2c80cc291",
     "icon_local_path": "98b2acc581dd58b45129d28fd1864fff"
@@ -1821,84 +1625,77 @@
   },
   {
     "item_name": "Мох сфагнум",
-    "price": 790,
+    "price": 1000,
     "Url": "https://so-wiki.ru/wiki/%D0%9C%D0%BE%D1%85_%D1%81%D1%84%D0%B0%D0%B3%D0%BD%D1%83%D0%BC",
     "item_id": "b0b42d4202a6762afb24b6b0affc9c7f",
     "icon_local_path": "f1983efcb55068b03a1aabaf3c03ffcb"
   },
   {
     "item_name": "Мята",
-    "price": 3456,
+    "price": 3900,
     "Url": "https://so-wiki.ru/wiki/%D0%9C%D1%8F%D1%82%D0%B0",
     "item_id": "3029fb088fd8b1cab516c5d47daf7ed6",
     "icon_local_path": "0c3d13f31a22839683d6f98b548198bf"
   },
   {
     "item_name": "Набор для ремонта костюмов и противогазов",
-    "price": 50000,
+    "price": 12444,
     "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%B0%D0%B1%D0%BE%D1%80_%D0%B4%D0%BB%D1%8F_%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%B0_%D0%BA%D0%BE%D1%81%D1%82%D1%8E%D0%BC%D0%BE%D0%B2_%D0%B8_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D0%B3%D0%B0%D0%B7%D0%BE%D0%B2",
     "item_id": "84068e6bcd679429b435c9367dbb0988",
     "icon_local_path": "8e1d52a4905e1d231e4ba8964e2ea93c"
   },
   {
     "item_name": "Набор инструментов",
-    "price": 650000,
+    "price": 625000,
     "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%B0%D0%B1%D0%BE%D1%80_%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2",
     "item_id": "6367c9bf6e99aeeca1a0644bd7f5f795",
     "icon_local_path": "2063c01a3d91e97b2ffcd76e8228c265"
   },
   {
     "item_name": "Набор специй",
-    "price": 8500,
+    "price": 15000,
     "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%B0%D0%B1%D0%BE%D1%80_%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B9",
     "item_id": "d0b1df9e9ca7463c082205ad5fb5f48c",
     "icon_local_path": "0001e0d44296811ac6e0fbb884b6062f"
   },
   {
     "item_name": "Набор старых инструментов",
-    "price": 544444,
+    "price": 500000,
     "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%B0%D0%B1%D0%BE%D1%80_%D1%81%D1%82%D0%B0%D1%80%D1%8B%D1%85_%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2",
     "item_id": "b6c89efbcfcd0f28ca20fb2bcf625c50",
     "icon_local_path": "31feacd033e18553663f7ddac2afc60c"
   },
   {
-    "item_name": "Наружное средство \"Левомицетин\"",
-    "price": 9000,
-    "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%B0%D1%80%D1%83%D0%B6%D0%BD%D0%BE%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%BE_%22%D0%9B%D0%B5%D0%B2%D0%BE%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D0%B8%D0%BD%22",
-    "item_id": "bcae3e6c386ee3034e2d499a745f938d",
-    "icon_local_path": "0b67b77079fa4bd76e2ea57b7bca6acf"
-  },
-  {
     "item_name": "Небольшая паучья лапка",
-    "price": 1000,
+    "price": 330,
     "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%B5%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%BF%D0%B0%D1%83%D1%87%D1%8C%D1%8F_%D0%BB%D0%B0%D0%BF%D0%BA%D0%B0",
     "item_id": "454a381d44a5bf920fbe11aa76254dcc",
     "icon_local_path": "7d81410c2afbcbed9128b4dbc3786985"
   },
   {
-    "item_name": "Несъедобный жареный гриб",
-    "price": 12454,
-    "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%B5%D1%81%D1%8A%D0%B5%D0%B4%D0%BE%D0%B1%D0%BD%D1%8B%D0%B9_%D0%B6%D0%B0%D1%80%D0%B5%D0%BD%D1%8B%D0%B9_%D0%B3%D1%80%D0%B8%D0%B1",
-    "item_id": "3942ee73b56b90acdc3a8f0e5934307e",
-    "icon_local_path": "6efafbcb9a8ad24716f4d4097e1410ae"
+    "item_name": "Неваляшка",
+    "price": 3500000,
+    "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%B5%D0%B2%D0%B0%D0%BB%D1%8F%D1%88%D0%BA%D0%B0",
+    "item_id": "65d3cd2a5288782cc13b7d67c3edc7c7",
+    "icon_local_path": "a8f475b261c722a60f7988bbfeef9579"
   },
   {
     "item_name": "Нога кабана",
-    "price": 1500,
+    "price": 900,
     "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%BE%D0%B3%D0%B0_%D0%BA%D0%B0%D0%B1%D0%B0%D0%BD%D0%B0",
     "item_id": "198569a181c7b44e509322a72b90c2b0",
     "icon_local_path": "9630e133bf8b53a145f3a309120d2dde"
   },
   {
     "item_name": "Нога молодого кабана",
-    "price": 340,
+    "price": 449,
     "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%BE%D0%B3%D0%B0_%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B3%D0%BE_%D0%BA%D0%B0%D0%B1%D0%B0%D0%BD%D0%B0",
     "item_id": "64182b2d02c9aa4dc9aa37ce721f5ef4",
     "icon_local_path": "b53d55cf878f07d98c59174d85914bd5"
   },
   {
     "item_name": "Ножка среднего вулканического гриба",
-    "price": 48000,
+    "price": 50000,
     "Url": "https://so-wiki.ru/wiki/%D0%9D%D0%BE%D0%B6%D0%BA%D0%B0_%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B2%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B3%D1%80%D0%B8%D0%B1%D0%B0",
     "item_id": "a051228b716b20b30983b89f5cdf5dd0",
     "icon_local_path": "3d87f452202a1c60c26afeb8facb541e"
@@ -1912,91 +1709,63 @@
   },
   {
     "item_name": "Одноразовый шприц объёмом 10мл",
-    "price": 2000,
+    "price": 3500,
     "Url": "https://so-wiki.ru/wiki/%D0%9E%D0%B4%D0%BD%D0%BE%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9_%D1%88%D0%BF%D1%80%D0%B8%D1%86_%D0%BE%D0%B1%D1%8A%D1%91%D0%BC%D0%BE%D0%BC_10%D0%BC%D0%BB",
     "item_id": "3ecff980e158c77f4b13a26729b58656",
     "icon_local_path": "aa84baa8e6274157f7ce5d497febed85"
   },
   {
     "item_name": "Одноразовый шприц объёмом 20мл",
-    "price": 2000,
+    "price": 3500,
     "Url": "https://so-wiki.ru/wiki/%D0%9E%D0%B4%D0%BD%D0%BE%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9_%D1%88%D0%BF%D1%80%D0%B8%D1%86_%D0%BE%D0%B1%D1%8A%D1%91%D0%BC%D0%BE%D0%BC_20%D0%BC%D0%BB",
     "item_id": "03dfa1545b0e58ee11de4b564e782063",
     "icon_local_path": "7c3822037b660ef9a416ee770e1744e9"
   },
   {
     "item_name": "Одноразовый шприц объёмом 5мл",
-    "price": 2000,
+    "price": 3500,
     "Url": "https://so-wiki.ru/wiki/%D0%9E%D0%B4%D0%BD%D0%BE%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9_%D1%88%D0%BF%D1%80%D0%B8%D1%86_%D0%BE%D0%B1%D1%8A%D1%91%D0%BC%D0%BE%D0%BC_5%D0%BC%D0%BB",
     "item_id": "2a47e99d355289e11140dd6e35107e61",
     "icon_local_path": "d5eec170018ed950bd9a99376774e42c"
   },
   {
-    "item_name": "Отвар \"Заживляющий\"",
-    "price": 25000,
-    "Url": "https://so-wiki.ru/wiki/%D0%9E%D1%82%D0%B2%D0%B0%D1%80_%22%D0%97%D0%B0%D0%B6%D0%B8%D0%B2%D0%BB%D1%8F%D1%8E%D1%89%D0%B8%D0%B9%22",
-    "item_id": "a722921cac24cd44fd7baf8f9dfbcb2d",
-    "icon_local_path": "4d9ee84a5b5a7c84cec9a4ec105832a5"
-  },
-  {
-    "item_name": "Отвар \"Заживляющий\" с ядом",
-    "price": 25000,
-    "Url": "https://so-wiki.ru/wiki/%D0%9E%D1%82%D0%B2%D0%B0%D1%80_%22%D0%97%D0%B0%D0%B6%D0%B8%D0%B2%D0%BB%D1%8F%D1%8E%D1%89%D0%B8%D0%B9%22_%D1%81_%D1%8F%D0%B4%D0%BE%D0%BC",
-    "item_id": "87f601a38c6a7ca221239b05818c160c",
-    "icon_local_path": "84b6c03c7ad147ab5d5104aebb9adc63"
-  },
-  {
-    "item_name": "Отвар \"Лекарь\"",
-    "price": 20000,
-    "Url": "https://so-wiki.ru/wiki/%D0%9E%D1%82%D0%B2%D0%B0%D1%80_%22%D0%9B%D0%B5%D0%BA%D0%B0%D1%80%D1%8C%22",
-    "item_id": "ac735396ee85d683693d619d135b9e23",
-    "icon_local_path": "6c94fb405fca8395c4049322075aca9f"
-  },
-  {
-    "item_name": "Отвар \"Укрепляющий\"",
-    "price": 5000,
-    "Url": "https://so-wiki.ru/wiki/%D0%9E%D1%82%D0%B2%D0%B0%D1%80_%22%D0%A3%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D1%8F%D1%8E%D1%89%D0%B8%D0%B9%22",
-    "item_id": "286e020b6d80919bd4f5e2029ccde4d6",
-    "icon_local_path": "c6180e65324c289c04ac4b4e2d5b6cf6"
-  },
-  {
-    "item_name": "Отвар \"Укрепляющий\" с ядом",
-    "price": 5000,
-    "Url": "https://so-wiki.ru/wiki/%D0%9E%D1%82%D0%B2%D0%B0%D1%80_%22%D0%A3%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D1%8F%D1%8E%D1%89%D0%B8%D0%B9%22_%D1%81_%D1%8F%D0%B4%D0%BE%D0%BC",
-    "item_id": "808b859239b3416808339d68cd417dc6",
-    "icon_local_path": "09701493f2d1423b7ba0f6e29c9422a5"
+    "item_name": "Паутинная железа (боевая)",
+    "price": 50000,
+    "Url": "https://so-wiki.ru/wiki/%D0%9F%D0%B0%D1%83%D1%82%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%B0_(%D0%B1%D0%BE%D0%B5%D0%B2%D0%B0%D1%8F)",
+    "item_id": "3bffde7f13e84f693ee0e1e199fb1989",
+    "icon_local_path": "0d5333a7fb4293f5c641b3be6ca5488c"
   },
   {
     "item_name": "Перекись водорода",
-    "price": 5000,
+    "price": 11900,
     "Url": "https://so-wiki.ru/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BA%D0%B8%D1%81%D1%8C_%D0%B2%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B4%D0%B0",
     "item_id": "dcc52363f5fcef5199c64e7b1fad30ac",
     "icon_local_path": "062ba8e753506769e00d3814bf185599"
   },
   {
     "item_name": "Перо вороны",
-    "price": 20000,
+    "price": 35000,
     "Url": "https://so-wiki.ru/wiki/%D0%9F%D0%B5%D1%80%D0%BE_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D1%8B",
     "item_id": "cc59c6b2a56d19d2b29efbdb45023684",
     "icon_local_path": "5ae229397d255e6cb3e8e24d59e67089"
   },
   {
     "item_name": "Печатная плата",
-    "price": 300000,
+    "price": 285000,
     "Url": "https://so-wiki.ru/wiki/%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB%D0%B0%D1%82%D0%B0",
     "item_id": "5b9001b1b6fcf9a4315fc4d47d477146",
     "icon_local_path": "955b42ff662f4dbed4dd214b937bdb8e"
   },
   {
     "item_name": "Пижма",
-    "price": 4000,
+    "price": 5900,
     "Url": "https://so-wiki.ru/wiki/%D0%9F%D0%B8%D0%B6%D0%BC%D0%B0",
     "item_id": "e3eaf1ece3262b921e560464c1c2d8ca",
     "icon_local_path": "a832073aba613f6171188f4cfb113b2b"
   },
   {
     "item_name": "Пластина мягкого металла",
-    "price": 70000,
+    "price": 69000,
     "Url": "https://so-wiki.ru/wiki/%D0%9F%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BD%D0%B0_%D0%BC%D1%8F%D0%B3%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B0",
     "item_id": "cb0257ce0197439c7af9483805e8c6a5",
     "icon_local_path": "26df6267e2b7071b9497ee65691dc560"
@@ -2009,6 +1778,13 @@
     "icon_local_path": "6e91dab0e3201eac41d961f0b187f6a3"
   },
   {
+    "item_name": "Плоды Шиповника",
+    "price": 3500,
+    "Url": "https://so-wiki.ru/wiki/%D0%9F%D0%BB%D0%BE%D0%B4%D1%8B_%D0%A8%D0%B8%D0%BF%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA%D0%B0",
+    "item_id": "e4dfaadfbe31dc8fb8dbec66867aba4a",
+    "icon_local_path": "422db4d95d4ca3773eb4718c7be640f7"
+  },
+  {
     "item_name": "Подосиновик",
     "price": 5000,
     "Url": "https://so-wiki.ru/wiki/%D0%9F%D0%BE%D0%B4%D0%BE%D1%81%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D0%BA",
@@ -2017,73 +1793,45 @@
   },
   {
     "item_name": "Правая нога жуткой куклы",
-    "price": 80000,
+    "price": 49000,
     "Url": "https://so-wiki.ru/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B0%D1%8F_%D0%BD%D0%BE%D0%B3%D0%B0_%D0%B6%D1%83%D1%82%D0%BA%D0%BE%D0%B9_%D0%BA%D1%83%D0%BA%D0%BB%D1%8B",
     "item_id": "dee4d70a12e074468ff2cfd5572b11bc",
     "icon_local_path": "a1bb09dcffd8c0d4dcb38a95e90b69d8"
   },
   {
-    "item_name": "Правая рука жуткой куклы",
-    "price": 50000,
-    "Url": "https://so-wiki.ru/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B0%D1%8F_%D1%80%D1%83%D0%BA%D0%B0_%D0%B6%D1%83%D1%82%D0%BA%D0%BE%D0%B9_%D0%BA%D1%83%D0%BA%D0%BB%D1%8B",
-    "item_id": "de2c70c13cbf698a957debfe5f0b9d35",
-    "icon_local_path": "13a379c7752538fd1dfcd4634aae630b"
-  },
-  {
-    "item_name": "Пробирка с \"Энергетиком\"",
-    "price": 350000,
-    "Url": "https://so-wiki.ru/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D0%B8%D1%80%D0%BA%D0%B0_%D1%81_%22%D0%AD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D1%82%D0%B8%D0%BA%D0%BE%D0%BC%22",
-    "item_id": "fbf2332a0e304fd51722db36ebfde1f7",
-    "icon_local_path": "ca7dcab5b1d45a26ae5f5f5fa577807f"
-  },
-  {
-    "item_name": "Пробирка с кровью бляка",
-    "price": 40000,
-    "Url": "https://so-wiki.ru/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D0%B8%D1%80%D0%BA%D0%B0_%D1%81_%D0%BA%D1%80%D0%BE%D0%B2%D1%8C%D1%8E_%D0%B1%D0%BB%D1%8F%D0%BA%D0%B0",
-    "item_id": "db043b89b9b60e0b2957efbd89c24144",
-    "icon_local_path": "c42ae7af485c5b8a9e75409e25692215"
-  },
-  {
-    "item_name": "Пробирка с кровью борова-мутанта",
-    "price": 40000,
-    "Url": "https://so-wiki.ru/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D0%B8%D1%80%D0%BA%D0%B0_%D1%81_%D0%BA%D1%80%D0%BE%D0%B2%D1%8C%D1%8E_%D0%B1%D0%BE%D1%80%D0%BE%D0%B2%D0%B0-%D0%BC%D1%83%D1%82%D0%B0%D0%BD%D1%82%D0%B0",
-    "item_id": "c13ac07bffb7c90f7881cf9244e2f46a",
-    "icon_local_path": "1f72f71607ce5717cfaac24208505568"
+    "item_name": "Пробирка с \"Нервным стимулятором\"",
+    "price": 300000,
+    "Url": "https://so-wiki.ru/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D0%B8%D1%80%D0%BA%D0%B0_%D1%81_%22%D0%9D%D0%B5%D1%80%D0%B2%D0%BD%D1%8B%D0%BC_%D1%81%D1%82%D0%B8%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%BE%D0%BC%22",
+    "item_id": "bb1dacc900c825192c894c7cdac1aed7",
+    "icon_local_path": "003628ae37354b6ed88b1a5f2cbff372"
   },
   {
     "item_name": "Пробирка с кровью верлиоки",
-    "price": 40000,
+    "price": 11111,
     "Url": "https://so-wiki.ru/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D0%B8%D1%80%D0%BA%D0%B0_%D1%81_%D0%BA%D1%80%D0%BE%D0%B2%D1%8C%D1%8E_%D0%B2%D0%B5%D1%80%D0%BB%D0%B8%D0%BE%D0%BA%D0%B8",
     "item_id": "c17b02059e7f2f75c8d4d9225d34cb95",
     "icon_local_path": "715c6aeb1b042e09146357a9d58dd0e1"
   },
   {
-    "item_name": "Пробирка с кровью мутировавшей крысы",
-    "price": 19000,
-    "Url": "https://so-wiki.ru/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D0%B8%D1%80%D0%BA%D0%B0_%D1%81_%D0%BA%D1%80%D0%BE%D0%B2%D1%8C%D1%8E_%D0%BC%D1%83%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%B2%D1%88%D0%B5%D0%B9_%D0%BA%D1%80%D1%8B%D1%81%D1%8B",
-    "item_id": "7d4ebb2956a59e82637221e03a5a94f4",
-    "icon_local_path": "9d696146a4b8106bd01cf416e7085dc1"
+    "item_name": "Пробирка с медным купоросом",
+    "price": 99990,
+    "Url": "https://so-wiki.ru/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D0%B8%D1%80%D0%BA%D0%B0_%D1%81_%D0%BC%D0%B5%D0%B4%D0%BD%D1%8B%D0%BC_%D0%BA%D1%83%D0%BF%D0%BE%D1%80%D0%BE%D1%81%D0%BE%D0%BC",
+    "item_id": "dbc1bb938dd28ef2e6cc33d4bc595b58",
+    "icon_local_path": "d648e1a9c3661f91c33d0f5b9491dd4b"
   },
   {
     "item_name": "Пробирка с паучьим ядом",
-    "price": 60000,
+    "price": 10000,
     "Url": "https://so-wiki.ru/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D0%B8%D1%80%D0%BA%D0%B0_%D1%81_%D0%BF%D0%B0%D1%83%D1%87%D1%8C%D0%B8%D0%BC_%D1%8F%D0%B4%D0%BE%D0%BC",
     "item_id": "33f220b56caf81f403ea420f69e44c2c",
     "icon_local_path": "8a6a0125a258f98c27fee9dd624ccc08"
   },
   {
     "item_name": "Пробирка с раствором марганцовки",
-    "price": 15000,
+    "price": 18000,
     "Url": "https://so-wiki.ru/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D0%B8%D1%80%D0%BA%D0%B0_%D1%81_%D1%80%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80%D0%BE%D0%BC_%D0%BC%D0%B0%D1%80%D0%B3%D0%B0%D0%BD%D1%86%D0%BE%D0%B2%D0%BA%D0%B8",
     "item_id": "4be957a1f7cd58c1b0f92152a493739b",
     "icon_local_path": "c591c66b25e8209ce3c316ea1f348d61"
-  },
-  {
-    "item_name": "Пробирка с ядом студня",
-    "price": 100000,
-    "Url": "https://so-wiki.ru/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D0%B8%D1%80%D0%BA%D0%B0_%D1%81_%D1%8F%D0%B4%D0%BE%D0%BC_%D1%81%D1%82%D1%83%D0%B4%D0%BD%D1%8F",
-    "item_id": "68c6348e7a43a15079d17136dbe488d0",
-    "icon_local_path": "bdc12affcb19f4dda23ead5106c96f2c"
   },
   {
     "item_name": "Прорезиненная ткань",
@@ -2094,73 +1842,52 @@
   },
   {
     "item_name": "Простой инструмент",
-    "price": 45000,
+    "price": 30000,
     "Url": "https://so-wiki.ru/wiki/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82",
     "item_id": "ff18715b832411caa460f711b27dca91",
     "icon_local_path": "61f084c7a92a863e8c8c72f292256615"
   },
   {
     "item_name": "Пустая бутылка",
-    "price": 2500,
+    "price": 5899,
     "Url": "https://so-wiki.ru/wiki/%D0%9F%D1%83%D1%81%D1%82%D0%B0%D1%8F_%D0%B1%D1%83%D1%82%D1%8B%D0%BB%D0%BA%D0%B0",
     "item_id": "a312a6a92442c83156ba91dc40536799",
     "icon_local_path": "1fe4a85e7f9ec5cea567ad02c836b8aa"
   },
   {
     "item_name": "Пустая бутылочка",
-    "price": 4200,
+    "price": 5000,
     "Url": "https://so-wiki.ru/wiki/%D0%9F%D1%83%D1%81%D1%82%D0%B0%D1%8F_%D0%B1%D1%83%D1%82%D1%8B%D0%BB%D0%BE%D1%87%D0%BA%D0%B0",
     "item_id": "51176f490831c5ede18fe6cb0bb58a39",
     "icon_local_path": "99b2eacbee371f5be5777571d4cf350f"
   },
   {
     "item_name": "Пустая пробирка",
-    "price": 5500,
+    "price": 1000,
     "Url": "https://so-wiki.ru/wiki/%D0%9F%D1%83%D1%81%D1%82%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B1%D0%B8%D1%80%D0%BA%D0%B0",
     "item_id": "4baaf22f0768287abf43c10bf6c603dd",
     "icon_local_path": "e07f5f7700a26720d7f0b988e556241d"
   },
   {
     "item_name": "Пустая стеклянная банка",
-    "price": 25000,
+    "price": 21000,
     "Url": "https://so-wiki.ru/wiki/%D0%9F%D1%83%D1%81%D1%82%D0%B0%D1%8F_%D1%81%D1%82%D0%B5%D0%BA%D0%BB%D1%8F%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B0%D0%BD%D0%BA%D0%B0",
     "item_id": "775878cceb03c914582d60e5c8e6dc2e",
     "icon_local_path": "919c7e2a29b358f7bdf0259cc248babd"
   },
   {
+    "item_name": "Пшеница",
+    "price": 3800,
+    "Url": "https://so-wiki.ru/wiki/%D0%9F%D1%88%D0%B5%D0%BD%D0%B8%D1%86%D0%B0",
+    "item_id": "7fcf4426f73e5bbeb1b7aa2276747127",
+    "icon_local_path": "f51a8008e0c8304a2822ff574c866f82"
+  },
+  {
     "item_name": "Рабочий автомобильный аккумулятор",
-    "price": 450000,
+    "price": 400000,
     "Url": "https://so-wiki.ru/wiki/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80",
     "item_id": "a09f17d78387c7f2a7dc1fad396a5da2",
     "icon_local_path": "10ad252b49bc55c9410d612faf6ffc7a"
-  },
-  {
-    "item_name": "Рагу \"Второй шанс\"",
-    "price": 15000,
-    "Url": "https://so-wiki.ru/wiki/%D0%A0%D0%B0%D0%B3%D1%83_%22%D0%92%D1%82%D0%BE%D1%80%D0%BE%D0%B9_%D1%88%D0%B0%D0%BD%D1%81%22",
-    "item_id": "1225b7137a8e9b302da0887f6a597cc9",
-    "icon_local_path": "bd7a8d257a8278ab744173b88c604b46"
-  },
-  {
-    "item_name": "Рагу \"Лучевое\"",
-    "price": 17000,
-    "Url": "https://so-wiki.ru/wiki/%D0%A0%D0%B0%D0%B3%D1%83_%22%D0%9B%D1%83%D1%87%D0%B5%D0%B2%D0%BE%D0%B5%22",
-    "item_id": "26a120eb0261bdd206ba958d85f03f7a",
-    "icon_local_path": "f2565da31299f2d0b174900df01307d0"
-  },
-  {
-    "item_name": "Рагу \"Тяжеловес\"",
-    "price": 15555,
-    "Url": "https://so-wiki.ru/wiki/%D0%A0%D0%B0%D0%B3%D1%83_%22%D0%A2%D1%8F%D0%B6%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D1%81%22",
-    "item_id": "0d03cf0d98ad886e78ab754a88c41f8c",
-    "icon_local_path": "650716c16c60c9b3d81c9cfc403cba66"
-  },
-  {
-    "item_name": "Рагу \"Тяжеловес\" с ядом",
-    "price": 15555,
-    "Url": "https://so-wiki.ru/wiki/%D0%A0%D0%B0%D0%B3%D1%83_%22%D0%A2%D1%8F%D0%B6%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D1%81%22_%D1%81_%D1%8F%D0%B4%D0%BE%D0%BC",
-    "item_id": "e2b6a04e065786249c4b66eca10d24ab",
-    "icon_local_path": "bf4c94b3af376d3d40e26e8c6c4a5c8e"
   },
   {
     "item_name": "Радиолампа",
@@ -2170,101 +1897,409 @@
     "icon_local_path": "920d4913a1993ee467ea67a4b458d597"
   },
   {
+    "item_name": "Радиочип",
+    "price": 25000000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE%D1%87%D0%B8%D0%BF",
+    "item_id": "84f72aeefb977281112471f375be601e",
+    "icon_local_path": "b12c2edffb16d352a2d73d2f9f669af9"
+  },
+  {
     "item_name": "Раствор Гепарина",
-    "price": 25000,
+    "price": 22222,
     "Url": "https://so-wiki.ru/wiki/%D0%A0%D0%B0%D1%81%D1%82%D0%B2%D0%BE%D1%80_%D0%93%D0%B5%D0%BF%D0%B0%D1%80%D0%B8%D0%BD%D0%B0",
     "item_id": "c00d2bdbd9ca29ff2c00c1548962d130",
     "icon_local_path": "1ab414118e5824f52a47f8ec9146b0b1"
   },
   {
-    "item_name": "Ремонтный набор для AUG A2",
-    "price": 100000,
-    "Url": "https://so-wiki.ru/wiki/%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0%D0%B1%D0%BE%D1%80_%D0%B4%D0%BB%D1%8F_AUG_A2",
-    "item_id": "8e4d45ad0b2e734fa898d8620c7b6327",
-    "icon_local_path": "231bba1b65e6ba66a21cf4850aa8fd70"
+    "item_name": "Рог",
+    "price": 20000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A0%D0%BE%D0%B3",
+    "item_id": "9fe6209aee770285068e6460aa381149",
+    "icon_local_path": "7f6c252313ecb07790c80cb893ba6abb"
   },
   {
-    "item_name": "Ремонтный набор для FAMAS",
-    "price": 100000,
-    "Url": "https://so-wiki.ru/wiki/%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0%D0%B1%D0%BE%D1%80_%D0%B4%D0%BB%D1%8F_FAMAS",
-    "item_id": "904be9a1e0308927d0e4c320fe150e1d",
-    "icon_local_path": "4e950cd5905cfb82ea6419f28ae8ecec"
+    "item_name": "Рогатик дудчатый",
+    "price": 20000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A0%D0%BE%D0%B3%D0%B0%D1%82%D0%B8%D0%BA_%D0%B4%D1%83%D0%B4%D1%87%D0%B0%D1%82%D1%8B%D0%B9",
+    "item_id": "c966296744ca9d849d03deb6f5b10dec",
+    "icon_local_path": "0d7db8b79e39d56caad7e5a60f3d2dd4"
   },
   {
-    "item_name": "Ремонтный набор для FN FNC",
-    "price": 100000,
-    "Url": "https://so-wiki.ru/wiki/%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0%D0%B1%D0%BE%D1%80_%D0%B4%D0%BB%D1%8F_FN_FNC",
-    "item_id": "dfd5f827d0558f10bd87149dcda9deca",
-    "icon_local_path": "6624c3ecf5da1b70847a783ef107498f"
+    "item_name": "Сало",
+    "price": 3700,
+    "Url": "https://so-wiki.ru/wiki/%D0%A1%D0%B0%D0%BB%D0%BE",
+    "item_id": "87fa7a5fabf9ba2a3d64fce3e2bb8008",
+    "icon_local_path": "169e254215f117777de0e970825efa91"
   },
   {
-    "item_name": "Ремонтный набор для L96A1",
-    "price": 100000,
-    "Url": "https://so-wiki.ru/wiki/%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0%D0%B1%D0%BE%D1%80_%D0%B4%D0%BB%D1%8F_L96A1",
-    "item_id": "9e6fef2be3b44ad22633ee774c467972",
-    "icon_local_path": "e79ae019c40de4a47560e8e559b30b66"
+    "item_name": "Свинец",
+    "price": 19,
+    "Url": "https://so-wiki.ru/wiki/%D0%A1%D0%B2%D0%B8%D0%BD%D0%B5%D1%86",
+    "item_id": "2386ac9809ef91a42527ba5130876d94",
+    "icon_local_path": "95efa7cef68097f2fcf1ed788c0aea40"
   },
   {
-    "item_name": "Ремонтный набор для MAC-10",
-    "price": 100000,
-    "Url": "https://so-wiki.ru/wiki/%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0%D0%B1%D0%BE%D1%80_%D0%B4%D0%BB%D1%8F_MAC-10",
-    "item_id": "8518f2ece9591fdbc9ccc4b931f20340",
-    "icon_local_path": "8f2f6320a24aaf5dc0eb10e18f98d323"
+    "item_name": "Свинцовая пластина",
+    "price": 29999,
+    "Url": "https://so-wiki.ru/wiki/%D0%A1%D0%B2%D0%B8%D0%BD%D1%86%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BD%D0%B0",
+    "item_id": "82d494987d40acb4c1b3c7248e410e85",
+    "icon_local_path": "2eedf7911b7408756f7e44bfcd0fb05b"
   },
   {
-    "item_name": "Ремонтный набор для UZI",
-    "price": 100000,
-    "Url": "https://so-wiki.ru/wiki/%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0%D0%B1%D0%BE%D1%80_%D0%B4%D0%BB%D1%8F_UZI",
-    "item_id": "e0690a28607e2bcf337411520c30f7ea",
-    "icon_local_path": "958e4e656b7a6adb6f2ef3f54a8c67ae"
+    "item_name": "Сердце волка",
+    "price": 25000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A1%D0%B5%D1%80%D0%B4%D1%86%D0%B5_%D0%B2%D0%BE%D0%BB%D0%BA%D0%B0",
+    "item_id": "1e9d08f9f4f2a16385728cd22cd9b401",
+    "icon_local_path": "520344bed49b644f1c5a50ccaacc93cf"
   },
   {
-    "item_name": "Ремонтный набор для ВСС",
-    "price": 100000,
-    "Url": "https://so-wiki.ru/wiki/%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0%D0%B1%D0%BE%D1%80_%D0%B4%D0%BB%D1%8F_%D0%92%D0%A1%D0%A1",
-    "item_id": "ed48e65c80375f4dc6df558f691e7a1f",
-    "icon_local_path": "86049e49fa15ddcc24e80e60c8906df2"
+    "item_name": "Сердце кабана",
+    "price": 16000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A1%D0%B5%D1%80%D0%B4%D1%86%D0%B5_%D0%BA%D0%B0%D0%B1%D0%B0%D0%BD%D0%B0",
+    "item_id": "830ebee4b8b8bc61bdfccfd510e7581e",
+    "icon_local_path": "f0b4b485de9157a8be6e7c3dc70047bd"
   },
   {
-    "item_name": "Ремонтный набор для ПМ",
-    "price": 100000,
-    "Url": "https://so-wiki.ru/wiki/%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0%D0%B1%D0%BE%D1%80_%D0%B4%D0%BB%D1%8F_%D0%9F%D0%9C",
-    "item_id": "571f12e602aae9877b537704b26dd8b8",
-    "icon_local_path": "29a9323db6b1b21782064dcd71f31b34"
+    "item_name": "Серебряное кольцо",
+    "price": 20000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A1%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D1%8F%D0%BD%D0%BE%D0%B5_%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE",
+    "item_id": "236487bd36f4700e03ff82d097695223",
+    "icon_local_path": "a93294f307a24df434457e594967c830"
   },
   {
-    "item_name": "Ремонтный набор для ППШ-41",
-    "price": 100000,
-    "Url": "https://so-wiki.ru/wiki/%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0%D0%B1%D0%BE%D1%80_%D0%B4%D0%BB%D1%8F_%D0%9F%D0%9F%D0%A8-41",
-    "item_id": "c3d9c1f914adba0e1234b70ca2146138",
-    "icon_local_path": "7c2f87863a9066117d00d36da644822f"
+    "item_name": "Серная кислота",
+    "price": 94000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A1%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0",
+    "item_id": "667d0b6ddc4ea1c85eff959cc77e0f86",
+    "icon_local_path": "a080a02d20175d600c515bc59cc19d51"
   },
   {
-    "item_name": "Ремонтный набор для РПГ-7",
-    "price": 100000,
-    "Url": "https://so-wiki.ru/wiki/%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0%D0%B1%D0%BE%D1%80_%D0%B4%D0%BB%D1%8F_%D0%A0%D0%9F%D0%93-7",
-    "item_id": "08992ade998468e40205d7fe70eddf9f",
-    "icon_local_path": "5a5187955dbc5f94094116e5383e75f8"
+    "item_name": "Слизь с пузыря драуга",
+    "price": 250000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A1%D0%BB%D0%B8%D0%B7%D1%8C_%D1%81_%D0%BF%D1%83%D0%B7%D1%8B%D1%80%D1%8F_%D0%B4%D1%80%D0%B0%D1%83%D0%B3%D0%B0",
+    "item_id": "252c60581404b57a1dfa950e40023c99",
+    "icon_local_path": "35af6fbb68cb3a0de2f02481ec178742"
   },
   {
-    "item_name": "Ремонтный набор для СВД",
-    "price": 100000,
-    "Url": "https://so-wiki.ru/wiki/%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0%D0%B1%D0%BE%D1%80_%D0%B4%D0%BB%D1%8F_%D0%A1%D0%92%D0%94",
-    "item_id": "823c4250977380cf358948e5f05d1324",
-    "icon_local_path": "11e72e493195473c81b53fcd81b1d5bf"
+    "item_name": "Солевая батарея 9В",
+    "price": 6999,
+    "Url": "https://so-wiki.ru/wiki/%D0%A1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F_%D0%B1%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D1%8F_9%D0%92",
+    "item_id": "cec3e2a9aa57ff8f95d282ff0b0c0066",
+    "icon_local_path": "97bf396b5e1972855af4fbc21f28273f"
   },
   {
-    "item_name": "Ремонтный набор для СКС",
-    "price": 100000,
-    "Url": "https://so-wiki.ru/wiki/%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0%D0%B1%D0%BE%D1%80_%D0%B4%D0%BB%D1%8F_%D0%A1%D0%9A%D0%A1",
-    "item_id": "52ca2ea165fd4d7cfa018bfe6c561d16",
-    "icon_local_path": "97ab87fd462500019f8435f78eeef356"
+    "item_name": "Соцветия Валерианы",
+    "price": 25000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A1%D0%BE%D1%86%D0%B2%D0%B5%D1%82%D0%B8%D1%8F_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%B0%D0%BD%D1%8B",
+    "item_id": "b92aae003b6f886680c3dac62aa75ba9",
+    "icon_local_path": "d9f9f8d54fbeacdd55fafc05171f2bba"
   },
   {
-    "item_name": "Ремонтный набор для СР3М",
+    "item_name": "Соцветия Зверобоя",
+    "price": 12777,
+    "Url": "https://so-wiki.ru/wiki/%D0%A1%D0%BE%D1%86%D0%B2%D0%B5%D1%82%D0%B8%D1%8F_%D0%97%D0%B2%D0%B5%D1%80%D0%BE%D0%B1%D0%BE%D1%8F",
+    "item_id": "28cff2063e01c70e0bf0f104d353089b",
+    "icon_local_path": "ba86ebc9cacd25a296b3026cbbc6311c"
+  },
+  {
+    "item_name": "Соцветия Ромашки",
+    "price": 4000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A1%D0%BE%D1%86%D0%B2%D0%B5%D1%82%D0%B8%D1%8F_%D0%A0%D0%BE%D0%BC%D0%B0%D1%88%D0%BA%D0%B8",
+    "item_id": "697d42b7361ca5d76f09944aaae221b7",
+    "icon_local_path": "56410cd25eec08596f780e22bcedfea7"
+  },
+  {
+    "item_name": "Соцветия Шиповника",
+    "price": 3500,
+    "Url": "https://so-wiki.ru/wiki/%D0%A1%D0%BE%D1%86%D0%B2%D0%B5%D1%82%D0%B8%D1%8F_%D0%A8%D0%B8%D0%BF%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA%D0%B0",
+    "item_id": "4a55ced8aef217a3a8a8491de2e3dea5",
+    "icon_local_path": "1dec1ae8c77e9037401735b56409f965"
+  },
+  {
+    "item_name": "Спички",
+    "price": 100,
+    "Url": "https://so-wiki.ru/wiki/%D0%A1%D0%BF%D0%B8%D1%87%D0%BA%D0%B8",
+    "item_id": "b7be7f6919297febe0bb4c680befd35c",
+    "icon_local_path": "fe6f6c142d6ff292c646eadf161906e1"
+  },
+  {
+    "item_name": "Споровый мешок большого вулканического гриба",
+    "price": 150000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A1%D0%BF%D0%BE%D1%80%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BC%D0%B5%D1%88%D0%BE%D0%BA_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B3%D0%BE_%D0%B2%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B3%D1%80%D0%B8%D0%B1%D0%B0",
+    "item_id": "11423da7aaaee6750f019eb28a58ed63",
+    "icon_local_path": "b5bacc7f3e13a68f8ded970188d0ce2e"
+  },
+  {
+    "item_name": "Средний сухой паёк",
+    "price": 10000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D1%81%D1%83%D1%85%D0%BE%D0%B9_%D0%BF%D0%B0%D1%91%D0%BA",
+    "item_id": "ce370921d679695e83457fbceb4017b3",
+    "icon_local_path": "b663f03033450ed4d72098ac9c328a07"
+  },
+  {
+    "item_name": "Стерильная ткань",
+    "price": 2500,
+    "Url": "https://so-wiki.ru/wiki/%D0%A1%D1%82%D0%B5%D1%80%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%BA%D0%B0%D0%BD%D1%8C",
+    "item_id": "0aebd3859eed30b687e09c2124defc34",
+    "icon_local_path": "ffe026252b0c8cb9b22ae80860df8452"
+  },
+  {
+    "item_name": "Суп \"Второе дыхание\"",
+    "price": 30000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A1%D1%83%D0%BF_%22%D0%92%D1%82%D0%BE%D1%80%D0%BE%D0%B5_%D0%B4%D1%8B%D1%85%D0%B0%D0%BD%D0%B8%D0%B5%22",
+    "item_id": "00d83d85311451e0c74534ee84997c7d",
+    "icon_local_path": "e13990a141245a3b4ad3d11cfcab9640"
+  },
+  {
+    "item_name": "Суп \"Второе дыхание\" с ядом",
+    "price": 30000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A1%D1%83%D0%BF_%22%D0%92%D1%82%D0%BE%D1%80%D0%BE%D0%B5_%D0%B4%D1%8B%D1%85%D0%B0%D0%BD%D0%B8%D0%B5%22_%D1%81_%D1%8F%D0%B4%D0%BE%D0%BC",
+    "item_id": "677f968709742c655f24bad8f0c8ca62",
+    "icon_local_path": "a9758e15ba64ba13f43b2383d23cb597"
+  },
+  {
+    "item_name": "Сырое мясо",
+    "price": 200,
+    "Url": "https://so-wiki.ru/wiki/%D0%A1%D1%8B%D1%80%D0%BE%D0%B5_%D0%BC%D1%8F%D1%81%D0%BE",
+    "item_id": "772ce527a82f23d2e1922f1ff1cbb78d",
+    "icon_local_path": "4045b26cb9b1409e6030c180cbcb4435"
+  },
+  {
+    "item_name": "Туловище жуткой куклы",
     "price": 100000,
-    "Url": "https://so-wiki.ru/wiki/%D0%A0%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0%D0%B1%D0%BE%D1%80_%D0%B4%D0%BB%D1%8F_%D0%A1%D0%A03%D0%9C",
-    "item_id": "a9c7eead8cfb6ae541de82f62d131c4b",
-    "icon_local_path": "3626e9c8b5bac695ff04e7829d8cee20"
+    "Url": "https://so-wiki.ru/wiki/%D0%A2%D1%83%D0%BB%D0%BE%D0%B2%D0%B8%D1%89%D0%B5_%D0%B6%D1%83%D1%82%D0%BA%D0%BE%D0%B9_%D0%BA%D1%83%D0%BA%D0%BB%D1%8B",
+    "item_id": "85d6b7f304079e68de38dea1b86e326b",
+    "icon_local_path": "56fb604ab9d6008cdbaad6601e3274c5"
+  },
+  {
+    "item_name": "Тюбик крема",
+    "price": 2000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A2%D1%8E%D0%B1%D0%B8%D0%BA_%D0%BA%D1%80%D0%B5%D0%BC%D0%B0",
+    "item_id": "6be7077bade32881868f815d31f834bb",
+    "icon_local_path": "cc9a11c4f58952ef36d2a15f457183ea"
+  },
+  {
+    "item_name": "Тюбик универсального клея",
+    "price": 25000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A2%D1%8E%D0%B1%D0%B8%D0%BA_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BB%D0%B5%D1%8F",
+    "item_id": "b4770650b60152caed528de11e8e7c03",
+    "icon_local_path": "79bb8288b2a20002a63a33a5f2474d4a"
+  },
+  {
+    "item_name": "Улучшенный набор инструментов",
+    "price": 899999,
+    "Url": "https://so-wiki.ru/wiki/%D0%A3%D0%BB%D1%83%D1%87%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0%D0%B1%D0%BE%D1%80_%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2",
+    "item_id": "e0e4d906bf383c29e15176fb22940bf6",
+    "icon_local_path": "39b600ba7ca2de5ac3d9e098d701197b"
+  },
+  {
+    "item_name": "Ухо кабана",
+    "price": 2500,
+    "Url": "https://so-wiki.ru/wiki/%D0%A3%D1%85%D0%BE_%D0%BA%D0%B0%D0%B1%D0%B0%D0%BD%D0%B0",
+    "item_id": "2b345a9f7f1cd15daa6c547970bd3182",
+    "icon_local_path": "3c88c993d4169dd2069fce36515889bb"
+  },
+  {
+    "item_name": "Фильтр ГП-7К",
+    "price": 9000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%93%D0%9F-7%D0%9A",
+    "item_id": "14438ad6e8b7b2591993d2bc02dc23d9",
+    "icon_local_path": "42dced85be0f0ea42f8485633aac9665"
+  },
+  {
+    "item_name": "Фильтр ФПК ЕО-19Э",
+    "price": 1500,
+    "Url": "https://so-wiki.ru/wiki/%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A4%D0%9F%D0%9A_%D0%95%D0%9E-19%D0%AD",
+    "item_id": "20e9013c97fba0a704fe757e415dcaa4",
+    "icon_local_path": "2da6935eb47e269deb1e825aea8a83a1"
+  },
+  {
+    "item_name": "Фильтр ФПК-ГП-5",
+    "price": 10000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A4%D0%B8%D0%BB%D1%8C%D1%82%D1%80_%D0%A4%D0%9F%D0%9A-%D0%93%D0%9F-5",
+    "item_id": "953341ad4ef9a69f9698ee081d6dced7",
+    "icon_local_path": "6a1c6894ae41b665086ac34cc301a3dc"
+  },
+  {
+    "item_name": "Фляга ВДВ",
+    "price": 200000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A4%D0%BB%D1%8F%D0%B3%D0%B0_%D0%92%D0%94%D0%92",
+    "item_id": "fdeb0876642c6e3e1634911fada0971e",
+    "icon_local_path": "526f34d3f9e4657820cc9952c7f1b4f5"
+  },
+  {
+    "item_name": "Хвост гигантской крысы",
+    "price": 4350,
+    "Url": "https://so-wiki.ru/wiki/%D0%A5%D0%B2%D0%BE%D1%81%D1%82_%D0%B3%D0%B8%D0%B3%D0%B0%D0%BD%D1%82%D1%81%D0%BA%D0%BE%D0%B9_%D0%BA%D1%80%D1%8B%D1%81%D1%8B",
+    "item_id": "c64ce5cdca5af8ca870e1ab718fd3297",
+    "icon_local_path": "ac828613a622e817557bc10a31208f78"
+  },
+  {
+    "item_name": "Хвост мутировавшей крысы",
+    "price": 5000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A5%D0%B2%D0%BE%D1%81%D1%82_%D0%BC%D1%83%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%B2%D1%88%D0%B5%D0%B9_%D0%BA%D1%80%D1%8B%D1%81%D1%8B",
+    "item_id": "116033911e4736016e0b840322dc1335",
+    "icon_local_path": "bdeae20633bf91140c997e9966324289"
+  },
+  {
+    "item_name": "Хитиновая пластина верлиоки",
+    "price": 1200,
+    "Url": "https://so-wiki.ru/wiki/%D0%A5%D0%B8%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BD%D0%B0_%D0%B2%D0%B5%D1%80%D0%BB%D0%B8%D0%BE%D0%BA%D0%B8",
+    "item_id": "a4633edab94a897f9c6a9f5dbed9aa1d",
+    "icon_local_path": "14724405a2646f6fc5c7d9cd1be2e2ab"
+  },
+  {
+    "item_name": "Цепочка серебряная",
+    "price": 80000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A6%D0%B5%D0%BF%D0%BE%D1%87%D0%BA%D0%B0_%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D1%8F%D0%BD%D0%B0%D1%8F",
+    "item_id": "ad75df708ec2e2cdda36cc98fa91c092",
+    "icon_local_path": "e6f0771ab47ffda299230195ccc7093a"
+  },
+  {
+    "item_name": "Часы наручные",
+    "price": 9000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A7%D0%B0%D1%81%D1%8B_%D0%BD%D0%B0%D1%80%D1%83%D1%87%D0%BD%D1%8B%D0%B5",
+    "item_id": "c8a92f7b0869cb5984eabe4b73efac99",
+    "icon_local_path": "807bd5c7aa19685e6c8edd0f06893ad3"
+  },
+  {
+    "item_name": "Человеческое ухо",
+    "price": 18000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%83%D1%85%D0%BE",
+    "item_id": "51da7c446bd66373e19a45d73f7fa70c",
+    "icon_local_path": "601b8da3fb692f0d263f1db9b9df70e2"
+  },
+  {
+    "item_name": "Челюсть полярного волка",
+    "price": 2900,
+    "Url": "https://so-wiki.ru/wiki/%D0%A7%D0%B5%D0%BB%D1%8E%D1%81%D1%82%D1%8C_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B2%D0%BE%D0%BB%D0%BA%D0%B0",
+    "item_id": "4f0df1272b0f8ffb52bc266fc2d7dd16",
+    "icon_local_path": "f876bfa69867373d61cfab019c766621"
+  },
+  {
+    "item_name": "Шкура бурого медведя",
+    "price": 35000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A8%D0%BA%D1%83%D1%80%D0%B0_%D0%B1%D1%83%D1%80%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8F",
+    "item_id": "40779902c0752d1015059dcac660d5cf",
+    "icon_local_path": "4d9ea381f3d83fb7498ca8a2463d437c"
+  },
+  {
+    "item_name": "Шкура волка",
+    "price": 15000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A8%D0%BA%D1%83%D1%80%D0%B0_%D0%B2%D0%BE%D0%BB%D0%BA%D0%B0",
+    "item_id": "fcdf89d22d8f44daf9948a79bac5e9b4",
+    "icon_local_path": "9426de3c141f788d0eb35b905e3c5cf5"
+  },
+  {
+    "item_name": "Шкура кабана",
+    "price": 15000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A8%D0%BA%D1%83%D1%80%D0%B0_%D0%BA%D0%B0%D0%B1%D0%B0%D0%BD%D0%B0",
+    "item_id": "8b6f0c4bfa393fcf91d09634623ff21d",
+    "icon_local_path": "9ef9d87294ae0ac9bed2272d6ce6f2a8"
+  },
+  {
+    "item_name": "Шкура полярного волка",
+    "price": 20000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A8%D0%BA%D1%83%D1%80%D0%B0_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B2%D0%BE%D0%BB%D0%BA%D0%B0",
+    "item_id": "712ae1020ee2d4cbdd819c3582cad70c",
+    "icon_local_path": "af609e09eb4854bbd4cd371369a0dcb7"
+  },
+  {
+    "item_name": "Шкура полярного медведя",
+    "price": 450000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A8%D0%BA%D1%83%D1%80%D0%B0_%D0%BF%D0%BE%D0%BB%D1%8F%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8F",
+    "item_id": "94593b8db18bfc60ef30fb4b651115b7",
+    "icon_local_path": "19231589b75f033e6efd68e39230d43a"
+  },
+  {
+    "item_name": "Шкура репья",
+    "price": 3000000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A8%D0%BA%D1%83%D1%80%D0%B0_%D1%80%D0%B5%D0%BF%D1%8C%D1%8F",
+    "item_id": "993fcb05a8e45dc7128d2fa350b25a2c",
+    "icon_local_path": "aa5900b03fd6ed8be3513a2be18b934b"
+  },
+  {
+    "item_name": "Шкура рыжего медведя",
+    "price": 44500,
+    "Url": "https://so-wiki.ru/wiki/%D0%A8%D0%BA%D1%83%D1%80%D0%B0_%D1%80%D1%8B%D0%B6%D0%B5%D0%B3%D0%BE_%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8F",
+    "item_id": "fe2ac8de68ab62b97d600d1ee94fe8ab",
+    "icon_local_path": "2cfd1fa3680c21191f1d30c2f5734c68"
+  },
+  {
+    "item_name": "Шкура собаки",
+    "price": 20000,
+    "Url": "https://so-wiki.ru/wiki/%D0%A8%D0%BA%D1%83%D1%80%D0%B0_%D1%81%D0%BE%D0%B1%D0%B0%D0%BA%D0%B8",
+    "item_id": "ea623943de5f22efd582f1a418d7589c",
+    "icon_local_path": "11ad48e3e13b25277b7c041f8b712c20"
+  },
+  {
+    "item_name": "Шмат серой глины",
+    "price": 500,
+    "Url": "https://so-wiki.ru/wiki/%D0%A8%D0%BC%D0%B0%D1%82_%D1%81%D0%B5%D1%80%D0%BE%D0%B9_%D0%B3%D0%BB%D0%B8%D0%BD%D1%8B",
+    "item_id": "60360b61121657320ad8318b915f646d",
+    "icon_local_path": "ed4aa2a06ba4774178a9bbcbcf9a4b42"
+  },
+  {
+    "item_name": "Электродетали (набор)",
+    "price": 47000,
+    "Url": "https://so-wiki.ru/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B4%D0%B5%D1%82%D0%B0%D0%BB%D0%B8_(%D0%BD%D0%B0%D0%B1%D0%BE%D1%80)",
+    "item_id": "29ddf9ecc0142fe9faca27337f6cd1bd",
+    "icon_local_path": "b47d0d141b81f3ddb06246224fe59292"
+  },
+  {
+    "item_name": "Электролит",
+    "price": 50000,
+    "Url": "https://so-wiki.ru/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BB%D0%B8%D1%82",
+    "item_id": "d3a1762611121d88c7b8e39641df8a55",
+    "icon_local_path": "f16409d24ba9c2745706908b4516b3ff"
+  },
+  {
+    "item_name": "Ягоды голубики",
+    "price": 15000,
+    "Url": "https://so-wiki.ru/wiki/%D0%AF%D0%B3%D0%BE%D0%B4%D1%8B_%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D0%B8%D0%BA%D0%B8",
+    "item_id": "b2883e095ded82a7bc99a319ca1ee2db",
+    "icon_local_path": "3fcd6a10df8fdba52329db34d1204d9d"
+  },
+  {
+    "item_name": "Ягоды морошки",
+    "price": 7000,
+    "Url": "https://so-wiki.ru/wiki/%D0%AF%D0%B3%D0%BE%D0%B4%D1%8B_%D0%BC%D0%BE%D1%80%D0%BE%D1%88%D0%BA%D0%B8",
+    "item_id": "72432d5a43e9b75a7dfee3ab7f4f4270",
+    "icon_local_path": "c1d1439444a0959aa58cc02573df3531"
+  },
+  {
+    "item_name": "Ядовитая еда",
+    "price": 5000,
+    "Url": "https://so-wiki.ru/wiki/%D0%AF%D0%B4%D0%BE%D0%B2%D0%B8%D1%82%D0%B0%D1%8F_%D0%B5%D0%B4%D0%B0",
+    "item_id": "6cdd665d179e4c185b3896124689f8c9",
+    "icon_local_path": "b48bbb088e1c609bf7671ad892f24761"
+  },
+  {
+    "item_name": "Ядовитая железа паука",
+    "price": 1500,
+    "Url": "https://so-wiki.ru/wiki/%D0%AF%D0%B4%D0%BE%D0%B2%D0%B8%D1%82%D0%B0%D1%8F_%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%B0_%D0%BF%D0%B0%D1%83%D0%BA%D0%B0",
+    "item_id": "4fad7b1c65b081e50d2d1c57440757ab",
+    "icon_local_path": "040fd420336e1fecba1beb91da6ee177"
+  },
+  {
+    "item_name": "Язык пещерного бляка",
+    "price": 18000,
+    "Url": "https://so-wiki.ru/wiki/%D0%AF%D0%B7%D1%8B%D0%BA_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B1%D0%BB%D1%8F%D0%BA%D0%B0",
+    "item_id": "2077a70e349eae0fd498ca5a2dec5586",
+    "icon_local_path": "21990988ba58c4d4b289bf5f360f8547"
+  },
+  {
+    "item_name": "Язык подвального бляка",
+    "price": 70000,
+    "Url": "https://so-wiki.ru/wiki/%D0%AF%D0%B7%D1%8B%D0%BA_%D0%BF%D0%BE%D0%B4%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B1%D0%BB%D1%8F%D0%BA%D0%B0",
+    "item_id": "4d71618d29e5f3795c886a7496ab8ea7",
+    "icon_local_path": "0207bf6903dbf153edb2d19015daba8a"
+  },
+  {
+    "item_name": "Яйцо верлиоки",
+    "price": 10000,
+    "Url": "https://so-wiki.ru/wiki/%D0%AF%D0%B9%D1%86%D0%BE_%D0%B2%D0%B5%D1%80%D0%BB%D0%B8%D0%BE%D0%BA%D0%B8",
+    "item_id": "bd81c2a86bef33085bd7ae9ae6fee125",
+    "icon_local_path": "a0711f476216c749a9b7a772fb60ad91"
   }
 ]
